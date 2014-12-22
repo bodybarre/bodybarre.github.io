@@ -24,46 +24,46 @@
 		
 			<div class="row">
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="pole.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="pole"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="antigravity.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="antigravity"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="aerialhoop.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="aerial-hoop"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="aerialsilks"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
-				</div>
-			</div>
-			
-			<div class="row">
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="trapeze.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="twerk.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="gymnastics.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="handstands.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="aerial-silks"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 			</div>
 			
 			<div class="row">
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="burlesque.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="trapeze"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="stretching.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="twerking"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="kettlercise.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="gymnastics"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href=kidscircus.html"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="handstands"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-xs-12 col-sm-3 margined-row">
+					<a href="burlesque"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+				</div>
+				<div class="col-xs-12 col-sm-3 margined-row">
+					<a href="stretching"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+				</div>
+				<div class="col-xs-12 col-sm-3 margined-row">
+					<a href="kettlercise"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+				</div>
+				<div class="col-xs-12 col-sm-3 margined-row">
+					<a href=kids-circus"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 			</div>
 			
