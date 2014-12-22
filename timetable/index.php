@@ -14,8 +14,8 @@
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="../about">About</a></li>
-							<li><a href="../timetable">Timetable</a></li>
+							<li><a href="../about">About</a></li>
+							<li class="active"><a href="../timetable">Timetable</a></li>
 							<li><a href="../parties">Parties</a></li>
 							<li><a href="../instructors">Instructors</a></li>
 							<li><a href="../training">Instructor Training</a></li>
@@ -28,7 +28,7 @@
 				</div>
 			</nav>
 		
-			<div class="row margined-row">
+			<div class="row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="http://lorempixel.com/1200/200/"/>
 				</div>
@@ -37,4 +37,3 @@
 <?php
 	include '../footer.php';
 ?>
-		

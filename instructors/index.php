@@ -1,6 +1,4 @@
-<?php
-	include '../header.php';
-?>
+<?php include '../header.php'; ?>
 			
 			<nav class="navbar navbar-inverse" role="navigation">
 				<div class="container-fluid">
@@ -14,10 +12,10 @@
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="../about">About</a></li>
+							<li><a href="../about">About</a></li>
 							<li><a href="../timetable">Timetable</a></li>
 							<li><a href="../parties">Parties</a></li>
-							<li><a href="../instructors">Instructors</a></li>
+							<li class="active"><a href="../instructors">Instructors</a></li>
 							<li><a href="../training">Instructor Training</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
@@ -34,7 +32,34 @@
 				</div>
 			</div>
 			
-<?php
-	include '../footer.php';
-?>
-		
+			<div class="row margined-row">
+				<div class="col-xs-12 col-sm-4">
+					<div class="thumbnail">
+						<img src="http://lorempixel.com/600/500/" alt="...">
+						<div class="caption">
+							<h3 class="center">Penny Howarth</h3>
+							<p>Here is some text.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4">
+					<div class="thumbnail">
+						<img src="http://lorempixel.com/600/500/" alt="...">
+						<div class="caption">
+							<h3 class="center">Karen Chaundy</h3>
+							<p>Here is some text.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4">
+					<div class="thumbnail">
+						<img src="http://lorempixel.com/600/500/" alt="...">
+						<div class="caption">
+							<h3 class="center">Cassie Bee</h3>
+							<p>Here is some text.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+<?php include '../footer.php'; ?>

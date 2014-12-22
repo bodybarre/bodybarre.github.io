@@ -31,7 +31,7 @@ ul.navbar-right a:hover {
 
 .thumbnail {
 	background:#1F2021;
-	border:none;
+	border:solid 1px #1F2021;
 }
 
 .caption h3 {

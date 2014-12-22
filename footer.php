@@ -2,7 +2,7 @@
 			
 			<div class="row">
 				<div class="col-xs-6">
-					&copy; Bodybarre 2015
+					 Copyright &copy; 2015
 				</div>
 				<div class="col-xs-6 right">
 					<a href="#"><img src="../images/twitter.png"/></a>
