@@ -5,7 +5,7 @@
 			
 			<div class="row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="http://lorempixel.com/1200/200/"/>
+					<img class="img-responsive" src="../images/hoop-banner.png"/>
 				</div>
 			</div>
 			

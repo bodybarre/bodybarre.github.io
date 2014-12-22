@@ -19,36 +19,60 @@
 					<a href="/bodybarre.co.uk"><img class="img-responsive" src="images/logo.png" alt="Bodybarre Logo"/></a>
 				</div>
 			</div>
-
-			<?php include 'navigation.php'; ?>
+			
+			<nav class="navbar navbar-inverse" role="navigation">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>					
+					</div>
+					<div id="navbar" class="navbar-collapse collapse">
+						<ul class="nav navbar-nav">
+							<li><a href="about">About</a></li>
+							<li><a href="timetable">Timetable</a></li>
+							<li><a href="parties">Parties</a></li>
+							<li><a href="instructors">Instructors</a></li>
+							<li><a href="training">Instructor Training</a></li>
+						</ul>
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="#">Blog</a></li>
+							<li><a href="contact">Contact</a></li>
+						</ul>
+					</div><!--/.nav-collapse -->
+				</div><!--/.container-fluid -->
+			</nav>
 		
 			<div class="row">
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="pole"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="pole"><img class="img-responsive" src="images/pole2.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="antigravity"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="antigravity"><img class="img-responsive" src="images/yoga.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="aerial-hoop"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="aerial-hoop"><img class="img-responsive" src="images/hoop.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="aerial-silks"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="aerial-silks"><img class="img-responsive" src="images/silks.png"/></a>
 				</div>
 			</div>
 			
 			<div class="row">
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="trapeze"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="trapeze"><img class="img-responsive" src="images/trapeze.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="twerking"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="twerking"><img class="img-responsive" src="images/twerking.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="gymnastics"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="gymnastics"><img class="img-responsive" src="images/gymnastics.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="handstands"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="handstands"><img class="img-responsive" src="images/handstands.png"/></a>
 				</div>
 			</div>
 			
@@ -57,13 +81,13 @@
 					<a href="burlesque"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="stretching"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="stretching"><img class="img-responsive" src="images/stretching.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="kettlercise"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="kettlercise"><img class="img-responsive" src="images/kettlercise.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href=kids-circus"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="kids-circus"><img class="img-responsive" src="images/kids-circus.png"/></a>
 				</div>
 			</div>
 			

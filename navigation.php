@@ -10,15 +10,15 @@
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
-							<li><a href="about">About</a></li>
-							<li><a href="timetable">Timetable</a></li>
-							<li><a href="parties">Parties</a></li>
-							<li><a href="instructors">Instructors</a></li>
-							<li><a href="training">Instructor Training</a></li>
+							<li><a href="../about">About</a></li>
+							<li><a href="../timetable">Timetable</a></li>
+							<li><a href="../parties">Parties</a></li>
+							<li><a href="../instructors">Instructors</a></li>
+							<li><a href="../training">Instructor Training</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="#">Blog</a></li>
-							<li><a href="contact">Contact</a></li>
+							<li><a href="../contact">Contact</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->
 				</div><!--/.container-fluid -->
