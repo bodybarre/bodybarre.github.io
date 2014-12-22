@@ -5,6 +5,10 @@ body {
 	margin-bottom:20px;
 }
 
+.interested {
+	text-align:center;
+}
+
 ul.nav a:hover { 
 	color:#F40D8E !important; 
 }
