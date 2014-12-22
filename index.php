@@ -16,10 +16,10 @@
 			<div class="row">
 				<!-- BodyBarre Logo" -->
 				<div class="col-md-offset-4 col-md-4 margined-row">
-					<a href="index.html"><img class="img-responsive" src="images/logo.png" alt="Bodybarre Logo"/></a>
+					<a href="/bodybarre.co.uk"><img class="img-responsive" src="images/logo.png" alt="Bodybarre Logo"/></a>
 				</div>
 			</div>
-			
+
 			<nav class="navbar navbar-inverse" role="navigation">
 				<div class="container-fluid">
 					<div class="navbar-header">
@@ -32,7 +32,7 @@
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
-							<li><a href="about.html">About</a></li>
+							<li><a href="about">About</a></li>
 							<li><a href="timetable.html">Timetable</a></li>
 							<li><a href="parties.html">Parties</a></li>
 							<li><a href="instructors.html">Instructors</a></li>
@@ -107,4 +107,4 @@
 		<script type="text/javascript" src="js/jquery.min.js"></script>
 		<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	</body>
-</html>
+</html>	
