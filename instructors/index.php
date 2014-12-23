@@ -37,15 +37,6 @@
 					<div class="thumbnail">
 						<img src="http://lorempixel.com/600/500/" alt="...">
 						<div class="caption">
-							<h3 class="center">Penny Howarth</h3>
-							<p>Here is some text.</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-4">
-					<div class="thumbnail">
-						<img src="http://lorempixel.com/600/500/" alt="...">
-						<div class="caption">
 							<h3 class="center">Karen Chaundy</h3>
 							<p>Here is some text.</p>
 						</div>
@@ -54,6 +45,15 @@
 				<div class="col-xs-12 col-sm-4">
 					<div class="thumbnail">
 						<img src="http://lorempixel.com/600/500/" alt="...">
+						<div class="caption">
+							<h3 class="center">Penny Howarth</h3>
+							<p>Here is some text.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4">
+					<div class="thumbnail">
+						<img class="img-responsive" src="../images/cassie.jpg" alt="Cassie Bee Photo">
 						<div class="caption">
 							<h3 class="center">Cassie Bee</h3>
 							<p>Here is some text.</p>
