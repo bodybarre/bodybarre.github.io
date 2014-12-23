@@ -5,6 +5,11 @@ body {
 	margin-bottom:20px;
 }
 
+#map {
+	width:100%;
+	height:250px;
+}
+
 .interested {
 	text-align:center;
 }
