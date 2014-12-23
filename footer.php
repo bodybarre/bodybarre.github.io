@@ -5,9 +5,9 @@
 					 Copyright &copy; 2015
 				</div>
 				<div class="col-xs-6 right">
-					<a href="#"><img src="../images/twitter.png"/></a>
-					<a href="#"><img src="../images/facebook.png"/></a>
-					<a href="#"><img src="../images/youtube.png"/></a>
+					<a href="http://www.twitter.com/BodybarreUK"><img src="../images/twitter.png"/></a>
+					<a href="http://www.facebook.com/bodybarre"><img src="../images/facebook.png"/></a>
+					<a href="http://www.youtube.com/user/karenBODYBARRE"><img src="../images/youtube.png"/></a>
 				</div>
 			</div>			
 		</div>

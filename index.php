@@ -14,7 +14,6 @@
 		<div class="container">
 			
 			<div class="row">
-				<!-- BodyBarre Logo" -->
 				<div class="col-md-offset-4 col-md-4 margined-row">
 					<a href="/bodybarre.co.uk"><img class="img-responsive" src="images/logo.png" alt="Bodybarre Logo"/></a>
 				</div>
@@ -42,13 +41,13 @@
 							<li><a href="#">Blog</a></li>
 							<li><a href="contact">Contact</a></li>
 						</ul>
-					</div><!--/.nav-collapse -->
-				</div><!--/.container-fluid -->
+					</div>
+				</div>
 			</nav>
 		
 			<div class="row">
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="pole"><img class="img-responsive" src="images/pole2.png"/></a>
+					<a href="pole"><img class="img-responsive" src="images/pole.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
 					<a href="antigravity"><img class="img-responsive" src="images/yoga.png"/></a>
@@ -93,14 +92,14 @@
 			
 			<hr/>
 			
-			<div class="row">
+			<div class="row margined-row">
 				<div class="col-xs-6">
 					Copyright &copy; 2015
 				</div>
 				<div class="col-xs-6 right">
-					<a href="#"><img src="images/twitter.png"/></a>
-					<a href="#"><img src="images/facebook.png"/></a>
-					<a href="#"><img src="images/youtube.png"/></a>
+					<a href="http://www.twitter.com/BodybarreUK"><img src="images/twitter.png"/></a>
+					<a href="http://www.facebook.com/bodybarre"><img src="images/facebook.png"/></a>
+					<a href="http://www.youtube.com/user/karenBODYBARRE"><img src="images/youtube.png"/></a>
 				</div>
 			</div>			
 		</div>
