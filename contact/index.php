@@ -48,23 +48,20 @@
 			</div>
 			<script src="https://maps.googleapis.com/maps/api/js"></script>
 			<script>
-				function init() {
+				google.maps.event.addDomListener(window, 'load', function(){
 					var myLatlng = new google.maps.LatLng(53.484233, -2.236942);
 					var mapOptions = {
 						center: myLatlng,
-						zoom: 17,
+						zoom: 16,
 						mapTypeId: google.maps.MapTypeId.ROADMAP
 					}
 					var map = new google.maps.Map(document.getElementById('map'), mapOptions)
-					
-					
 					new google.maps.Marker({
 						 position: myLatlng,
 						 map: map,
 						 title: 'Bodybarre Manchester'
 					});
-				}
-				google.maps.event.addDomListener(window, 'load', init);
+				});
 			</script>
 <?php
 	include '../footer.php';
