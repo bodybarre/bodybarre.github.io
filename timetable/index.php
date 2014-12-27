@@ -28,9 +28,15 @@
 				</div>
 			</nav>
 		
-			<div class="row">
+			<div class="row margined-row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="../images/timetable_banner.png" alt="Timetable page banner"/>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12 center">
+					<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=600&amp;wkst=2&amp;hl=en_GB&amp;bgcolor=%23000000&amp;src=bodybarretimetable%40gmail.com&amp;color=%23B1365F&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 				</div>
 			</div>
 			
