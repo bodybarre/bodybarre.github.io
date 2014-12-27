@@ -94,7 +94,7 @@
 			
 			<div class="row margined-row">
 				<div class="col-xs-6">
-					Copyright &copy; <?php echo date("Y"); ?>
+					Copyright &copy; Bodybarre <?php echo date("Y"); ?>
 				</div>
 				<div class="col-xs-6 right">
 					<a href="http://www.twitter.com/BodybarreUK"><img src="images/twitter.png"/></a>
