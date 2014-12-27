@@ -29,7 +29,7 @@
 			
 			<div class="row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="http://lorempixel.com/1200/200/"/>
+					<img class="img-responsive" src="../images/about_banner.png" alt="About page banner"/>
 				</div>
 			</div>
 			

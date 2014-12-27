@@ -41,33 +41,26 @@
 							<i><h4 class="center gold">The strong one!</h4></i>
 							<p>
 								Karen is the founder and inspiration behind Bodybarre. Karen has immersed herself in the 
-								world of fitness and dance all her life starting with gymnastics at 2 years old. Karen continued 
-								with gymnastics; training in Bulgaria and competing at regional squad level before becoming a 
-								club coach and chief choreographer. A career in professional dance followed and included the highlight of performing as an aerialist 
-								and ground based dancer within the Millennium Dome Central Arena Show in London.
+								world of fitness and dance all her life starting with gymnastics at 2 years old.  As a professional 
+								dancer her career highlights include performing within the Millennium Dome Central Arena 
+								Show in London.  Karen has choreographed and performed Burlesque and Pole Dance shows 
+								for TV, Stage and corporate and celebratory events.
 							</p>
 							<p>
-								Karen has also performed at the Bollywood Film Awards Ceremony, a burlesque dancer on the 
-								ITV's drama series ‘The Royal’, a Pole Dancer on Coronation Street and on Shameless of which 
-								she was appointed to perform, teach and choreograph the shows leading actress.
-								Karen continues to choreograph and perform aerial and ground based Burlesque and Pole 
-								Dance shows for TV, Stage and corporate and celebratory events.
+								Karen has a full knowledge of the fitness industry and has qualifications as a YMCA gym 
+								instructor - Level 2.  She was handpicked to teach ‘New York City Ballet Workout’ as well as 
+								‘Nike Rockstar Workouts’; her involvement in these different dance styles has inspired her to 
+								find new ways to keep her fitness knowledge current.  Karen was one of the UK's first 
+								‘AntiGravity&reg; Aerial Yoga’ and ‘AntiGravity&reg; Aerial Pilates’ qualified Instructors leading 
+								AntiGravity&reg; Fitness classes at Bodybarre.
 							</p>
 							<p>
-								Karen has continued to build her knowledge within the fitness industry and formalized this 
-								with qualifications with YMCA gym instructor level 2. She has been selected and qualified to 
-								teach New York City Ballet Workout as well as Nike Rockstar Workouts; involvement in these 
-								different dance styles has inspired her and continue to feed her creativity. Keeping her fitness 
-								knowledge current, Karen is one of the UK's first AntiGravity&reg; Aerial Yoga and AntiGravity&reg; 
-								Aerial Pilates qualified Instructors leading AntiGravity&reg; Fitness classes at Bodybarre.
-								Karen is also a Master Trainer for the XPert Pole Instructor Training programs of which she 
-								conducts across Europe.
+								Karen is a Master Trainer for the ‘XPert’ Pole Instructor Training programs, a role that she fulfills across Europe.
 							</p>
 							<p>
 								Her Pole Dancing performance career reached its pinnacle as she successfully represented the 
 								UK at the World Pole Dance Championships. Known for her strong and unique pole dance style 
-								she has captivated audiences worldwide and delivers pole masterclasses across the UK and the 
-								world.
+								she has captivated audiences worldwide and delivers pole classes across the UK and the world.
 							</p>
 						</div>
 					</div>
@@ -83,6 +76,9 @@
 								Penny has worked in the pole dance industry since 2007 but has been dancing since the age of 
 								4! Penny’s training includes many dance disciplines from ballet to tap. Penny’s favourite 
 								pole moves are Jade, Star Gazer, Embrace and Flying Ballerina.
+							</p>
+							<p>
+								Penny’s pole influences are the ex-gymnasts who have made pole dance more acrobatic and gravity defying.
 							</p>
 							<p>
 								Penny’s aim is for every student to achieve something every lesson, no matter how big or 

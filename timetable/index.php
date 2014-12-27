@@ -30,7 +30,7 @@
 		
 			<div class="row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="http://lorempixel.com/1200/200/"/>
+					<img class="img-responsive" src="../images/timetable_banner.png" alt="Timetable page banner"/>
 				</div>
 			</div>
 			

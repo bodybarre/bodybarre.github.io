@@ -50,7 +50,7 @@
 					<a href="pole"><img class="img-responsive" src="images/pole.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="antigravity"><img class="img-responsive" src="images/yoga.png"/></a>
+					<a href="aerial-yoga"><img class="img-responsive" src="images/yoga.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
 					<a href="aerial-hoop"><img class="img-responsive" src="images/hoop.png"/></a>
@@ -77,7 +77,7 @@
 			
 			<div class="row">
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="burlesque"><img class="img-responsive" src="http://lorempixel.com/300/200/"/></a>
+					<a href="burlesque"><img class="img-responsive" src="images/burlesque.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
 					<a href="stretching"><img class="img-responsive" src="images/stretching.png"/></a>
@@ -86,7 +86,7 @@
 					<a href="kettlercise"><img class="img-responsive" src="images/kettlercise.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="kids-circus"><img class="img-responsive" src="images/kids-circus.png"/></a>
+					<a href="kids-aerial-circus"><img class="img-responsive" src="images/kids-circus.png"/></a>
 				</div>
 			</div>
 			
@@ -94,7 +94,7 @@
 			
 			<div class="row margined-row">
 				<div class="col-xs-6">
-					Copyright &copy; 2015
+					Copyright &copy; <?php echo date("Y"); ?>
 				</div>
 				<div class="col-xs-6 right">
 					<a href="http://www.twitter.com/BodybarreUK"><img src="images/twitter.png"/></a>
