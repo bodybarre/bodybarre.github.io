@@ -33,17 +33,6 @@
 			</div>
 			
 			<div class="row margined-row">
-				<div class="col-md-12">
-					<i>
-						<h3 class="center pink">
-							Meet the true force of Bodybarre; a team of the most passionate and inspiring teachers in the North West.
-						</h3>
-					</i>
-					</b>
-				</div>
-			</div>
-			
-			<div class="row margined-row">
 				<div class="col-xs-12 col-sm-4">
 					<div class="thumbnail">
 						<img class="img-responsive" src="../images/kaz.jpg" alt="Karen Chaundy Photo">
