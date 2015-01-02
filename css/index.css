@@ -47,6 +47,24 @@ ul.navbar-right a:hover {
 	color:white;
 }
 
+.ticked-list {
+	 list-style: none;
+	 padding:0px;
+}
+
+.ticked-list > li > span {
+	color:white;
+}
+
+.ticked-list > li {
+	color:#C9A928;
+}
+
+.ticked-list > li:before {
+	content: '\2713';
+	margin: 0 10px;
+}
+
 .pink {
 	color:#F40D8E;
 }
