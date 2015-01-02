@@ -35,9 +35,148 @@
 			</div>
 			
 			<div class="row">
-				<div class="col-md-12 center">
-					<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=600&amp;wkst=2&amp;hl=en_GB&amp;bgcolor=%23000000&amp;src=bodybarretimetable%40gmail.com&amp;color=%23B1365F&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+				<div class="col-md-4">
+					<h2 class="gold">Monday</h2>
+					<table class="table table-condensed table-bordered">
+						<tr>
+							<td colspan="2"><h4>Studio #1</h4></td>
+						</tr>
+						<tr>
+							<td class="pink">16:30 - 17:30</td>
+							<td>Private Studio Hire<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">17:30 - 18:30</td>
+							<td>Pole Sport - All Levels<br/><i>Pre-Book (Student Discount)</i></td>
+						</tr>
+						<tr>
+							<td class="pink">18:30 - 19:00</td>
+							<td>Twerking - All Levels<br/><i>PAYGO £5</i></td>
+						</tr>
+						<tr>
+							<td class="pink">19:00 - 19:45</td>
+							<td>Kettlercise - All Levels<br/><i>PAYGO £6</i></td>
+						</tr>
+						<tr>
+							<td class="pink">19:45 - 20:30</td>
+							<td>Lyrical Pole Dance - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">20:30 - 21:30</td>
+							<td>Super Gold Pole Sport - Advanced<br/><i>Pre-Book</i></td>
+						</tr>
+					</table>
+					<table class="table table-condensed table-bordered">
+						<tr>
+							<td colspan="2"><h4>Studio #2</h4></td>
+						</tr>
+						<tr>
+							<td class="pink">18:30 - 19:30</td>
+							<td>Pole Dancing Course - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">19:30 - 20:30</td>
+							<td>Pole Sport - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+					</table>
 				</div>
+				
+				<div class="col-md-4">
+					<h2 class="gold">Tuesday</h2>
+					<table class="table table-condensed table-bordered">
+						<tr>
+							<td colspan="2"><h4>Studio #1</h4></td>
+						</tr>
+						<tr>
+							<td class="pink">16:30 - 17:30</td>
+							<td>Private Studio Hire<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">17:45 - 18:30</td>
+							<td>Sexy Pole Dance - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">18:30 - 19:15</td>
+							<td>Burlesque - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">19:15 - 20:15</td>
+							<td>Silver Pole Sport -  Intermediate<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">19:15 - 20:15</td>
+							<td>Bronze Pole Sport -  Beginner<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">20:15 - 21:30</td>
+							<td>Platinum Pole Sport - Elite<br/><i>Pre-Book</i></td>
+						</tr>
+					</table>
+					<table class="table table-condensed table-bordered">
+						<tr>
+							<td colspan="2"><h4>Studio #2</h4></td>
+						</tr>
+						<tr>
+							<td class="pink">17:30 - 18:30</td>
+							<td>Private Studio Hire<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">18:30 - 19:15</td>
+							<td>Handstands - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">19:15 - 20:15</td>
+							<td>Bronze Pole Sport -  Beginner<br/><i>Pre-Book</i></td>
+						</tr>
+					</table>
+				</div>
+				
+				<div class="col-md-4">
+					<h2 class="gold">Wednesday</h2>
+					<table class="table table-condensed table-bordered">
+						<tr>
+							<td colspan="2"><h4>Studio #1</h4></td>
+						</tr>
+						<tr>
+							<td class="pink">17:45 - 18:30</td>
+							<td>Adult Gymnastics - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">18:30 - 19:30</td>
+							<td>AntiGravity Pilates - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">19:30 - 20:30</td>
+							<td>AntiGravity Yoga Flying Fitness<br/>All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">20:30 - 21:30</td>
+							<td>AntiGravity Yoga SloFlow Stretch<br/>All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+					</table>
+					<table class="table table-condensed table-bordered">
+						<tr>
+							<td colspan="2"><h4>Studio #2</h4></td>
+						</tr>
+						<tr>
+							<td class="pink">17:30 - 18:30</td>
+							<td>Private Studio Hire<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">18:30 - 19:30</td>
+							<td>Bronze Pole Sport - Beginners<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">19:30 - 20:30</td>
+							<td>Silver Pole Sport -  Intermediate<br/><i>Pre-Book</i></td>
+						</tr>
+						<tr>
+							<td class="pink">20:30 - 21:15</td>
+							<td>Pole Handstands - All Levels<br/><i>Pre-Book</i></td>
+						</tr>
+					</table>
+				</div>
+				
 			</div>
 <?php
 	include '../footer.php';
