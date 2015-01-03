@@ -30,6 +30,9 @@
 						to join the fun. Children are encouraged to strive for, and reach individual goals,
 						paced to their own ability, all within a non-competitive environment.
 					</p>
+					<p class="gold">
+						<i><b>Lets play upside down!</b></i>
+					</p>
 				</div>
 				<div class="col-md-6">
 					<div class="row">
@@ -65,7 +68,7 @@
 				<div class="col-md-6">
 					<h3 class="pink">How to book?</h3>
 					<p>Book in advance only; essential to secure your place.</p>
-					<p>To check availability and to book a place, contact: <span class="gold">karen@bodybarre.co.uk</span></p>
+					<p>To check availability and to book a place, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
 				</div>
 				<div class="col-md-6">
 					<h3 class="pink">How much?</h3>

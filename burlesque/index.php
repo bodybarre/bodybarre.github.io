@@ -20,6 +20,9 @@
 					<p>
 						Be sexy, move to the music, have fun and if all fails just wiggle! Prepare to dress up and dress down.
 					</p>
+					<p class="gold">
+						<i><b>Have fun and feel sexy!</b></i>
+					</p>
 					<h3 class="pink">Professional burlesque dance troupe</h3>
 					<p>
 						Bodybarre produces full length and short version shows to bring a unique Burlesque buzz for any 
@@ -76,7 +79,7 @@
 				</div>
 				<div class="col-md-6">
 					<h3 class="pink">How much?</h3>
-					<p>The four week burlesque course costs £30.00.</p>
+					<p>The four week burlesque course costs £30.00</p>
 					<p>Prices vary for burlesque show. E-mail <span class="gold">karen@bodybarre.co.uk</span> to discuss your requirements.</p>
 				</div>
 			</div>
