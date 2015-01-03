@@ -62,7 +62,7 @@ ul.navbar-right a:hover {
 
 .ticked-list > li:before {
 	content: '\2713';
-	margin: 0 10px;
+	margin: 0 10px 0 0;
 }
 
 .pink {
