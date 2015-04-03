@@ -9,7 +9,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
-						</button>					
+						</button>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
@@ -26,19 +26,19 @@
 					</div><!--/.nav-collapse -->
 				</div>
 			</nav>
-		
-			<div class="row margined-row">
+
+			<div class="hidden-xs row margined-row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="../images/contact_banner.png"/>
 				</div>
 			</div>
-			
+
 			<div class="row">
 				<div class="col-xs-12 col-sm-8">
 					<h3 class="pink">Where are we?</h3>
 					<p>
-						On the hippest street in Central Manchester you will find the very luxurious, 
-						boutique styled fitness studio, perfectly placed in the hub of the vibrant and 
+						On the hippest street in Central Manchester you will find the very luxurious,
+						boutique styled fitness studio, perfectly placed in the hub of the vibrant and
 						exciting Northern Quarter.
 					</p>
 				</div>

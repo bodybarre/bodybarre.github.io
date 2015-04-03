@@ -3,7 +3,7 @@
 	include '../navigation.php';
 ?>
 
-		<div class="row margined-row">
+		<div class="hidden-xs row margined-row">
 			<div class="col-md-12">
 				<img class="img-responsive" src="../images/handstands_banner.png" alt="Handstands Banner"/>
 			</div>

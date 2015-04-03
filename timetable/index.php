@@ -1,7 +1,7 @@
 <?php
 	include '../header.php';
 ?>
-			
+
 			<nav class="navbar navbar-inverse" role="navigation">
 				<div class="container-fluid">
 					<div class="navbar-header">
@@ -10,7 +10,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
-						</button>					
+						</button>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
@@ -27,13 +27,13 @@
 					</div><!--/.nav-collapse -->
 				</div>
 			</nav>
-		
-			<div class="row margined-row">
+
+			<div class="hidden-xs row margined-row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="../images/timetable_banner.png" alt="Timetable page banner"/>
 				</div>
 			</div>
-			
+
 			<div class="row">
 				<div class="col-md-4">
 					<h2 class="gold">Monday</h2>
@@ -80,7 +80,7 @@
 						</tr>
 					</table>
 				</div>
-				
+
 				<div class="col-md-4">
 					<h2 class="gold">Tuesday</h2>
 					<table class="table table-condensed table-bordered">
@@ -130,7 +130,7 @@
 						</tr>
 					</table>
 				</div>
-				
+
 				<div class="col-md-4">
 					<h2 class="gold">Wednesday</h2>
 					<table class="table table-condensed table-bordered">
@@ -223,7 +223,7 @@
 						</tr>
 					</table>
 				</div>
-			
+
 				<div class="col-md-4">
 					<h2 class="gold">Friday &amp; Saturday</h2>
 					<table class="table table-condensed table-bordered">
@@ -233,7 +233,7 @@
 						</tr>
 					</table>
 				</div>
-				
+
 				<div class="col-md-4">
 					<h2 class="gold">Sunday</h2>
 					<table class="table table-condensed table-bordered">
@@ -279,7 +279,7 @@
 						</tr>
 					</table>
 				</div>
-				
+
 			</div>
 <?php
 	include '../footer.php';

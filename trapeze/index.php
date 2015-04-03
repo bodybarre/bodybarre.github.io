@@ -2,8 +2,8 @@
 	include '../header.php';
 	include '../navigation.php';
 ?>
-			
-			<div class="row">
+
+			<div class="hidden-xs row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="../images/trapeze_banner.png" alt="Static Trapeze Banner"/>
 				</div>
@@ -20,14 +20,14 @@
 						Static Trapeze class is designed to keep you motivated and give you an amazingly thorough full body workout.
 					</p>
 					<p>
-						Climbing, inverting, rolling and turning every which way on this apparatus, you will 
-						learn how to move from different positions with grace and ease while gaining 
-						strength and control. On the trapeze you will learn to use the bar and ropes to pose, 
+						Climbing, inverting, rolling and turning every which way on this apparatus, you will
+						learn how to move from different positions with grace and ease while gaining
+						strength and control. On the trapeze you will learn to use the bar and ropes to pose,
 						invert, balance and drop into thrilling positions.
 					</p>
 					<p>
-						Discover your centre of gravity in many different positions as you build shapes in the 
-						air, turning them inside out and upside down in poses that highlight both strength 
+						Discover your centre of gravity in many different positions as you build shapes in the
+						air, turning them inside out and upside down in poses that highlight both strength
 						and flexibility.
 					</p>
 					<p class="gold">
@@ -74,7 +74,7 @@
 					<p>This six week course costs £55.00</p>
 				</div>
 			</div>
-			
+
 <?php
 	include '../footer.php';
 ?>

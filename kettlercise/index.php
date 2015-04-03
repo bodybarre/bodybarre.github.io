@@ -2,8 +2,8 @@
 	include '../header.php';
 	include '../navigation.php';
 ?>
-			
-			<div class="row">
+
+			<div class="hidden-xs row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="../images/kettlercise_banner.png" alt="Kettlercise banner"/>
 				</div>
@@ -15,18 +15,18 @@
 						Get sweating and release the ‘happy’ chemicals, get a fitter ticker, tone up, burn fat, and enjoy a healthier you.
 					</p>
 					<p>
-						Kettlercise is a great way for you to reduce body fat while learning some many basic Kettlebell 
-						exercises. Whether you are a total novice or a regular kettlebell user, this class suits all 
-						abilities. Kettlercise uses a whole body approach, targeting each muscle group for a balanced 
-						workout. 
+						Kettlercise is a great way for you to reduce body fat while learning some many basic Kettlebell
+						exercises. Whether you are a total novice or a regular kettlebell user, this class suits all
+						abilities. Kettlercise uses a whole body approach, targeting each muscle group for a balanced
+						workout.
 					</p>
 					<p>
-						Mixing resistance training with cardiovascular training helps to sculpt the body very 
+						Mixing resistance training with cardiovascular training helps to sculpt the body very
 						quickly especially when coupled with a healthy balanced diet.
 					</p>
 					<p>
-						Kettlercise will not bulk up the 
-						body, the system is designed to deliver cardio fat burning fitness which keeps the body lean 
+						Kettlercise will not bulk up the
+						body, the system is designed to deliver cardio fat burning fitness which keeps the body lean
 						and sculpted.
 					</p>
 					<p class="gold">
@@ -75,7 +75,7 @@
 					<p>£6 per class.</p>
 				</div>
 			</div>
-			
+
 <?php
 	include '../footer.php';
 ?>

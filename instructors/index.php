@@ -1,5 +1,5 @@
 <?php include '../header.php'; ?>
-			
+
 			<nav class="navbar navbar-inverse" role="navigation">
 				<div class="container-fluid">
 					<div class="navbar-header">
@@ -8,7 +8,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
-						</button>					
+						</button>
 					</div>
 					<div id="navbar" class="navbar-collapse collapse">
 						<ul class="nav navbar-nav">
@@ -25,13 +25,13 @@
 					</div><!--/.nav-collapse -->
 				</div>
 			</nav>
-		
-			<div class="row margined-row">
+
+			<div class="hidden-xs row margined-row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="../images/instructors_banner.png" alt="Instructors Banner"/>
 				</div>
 			</div>
-			
+
 			<div class="row margined-row">
 				<div class="col-xs-12 col-sm-4">
 					<div class="thumbnail">
@@ -40,26 +40,26 @@
 							<h3 class="pink center">Karen Chaundy</h3>
 							<i><h4 class="center gold">The strong one!</h4></i>
 							<p>
-								Karen is the founder and inspiration behind Bodybarre. Karen has immersed herself in the 
-								world of fitness and dance all her life starting with gymnastics at 2 years old.  As a professional 
-								dancer her career highlights include performing within the Millennium Dome Central Arena 
-								Show in London.  Karen has choreographed and performed Burlesque and Pole Dance shows 
+								Karen is the founder and inspiration behind Bodybarre. Karen has immersed herself in the
+								world of fitness and dance all her life starting with gymnastics at 2 years old.  As a professional
+								dancer her career highlights include performing within the Millennium Dome Central Arena
+								Show in London.  Karen has choreographed and performed Burlesque and Pole Dance shows
 								for TV, Stage and corporate and celebratory events.
 							</p>
 							<p>
-								Karen has a full knowledge of the fitness industry and has qualifications as a YMCA gym 
-								instructor - Level 2.  She was handpicked to teach ‘New York City Ballet Workout’ as well as 
-								‘Nike Rockstar Workouts’; her involvement in these different dance styles has inspired her to 
-								find new ways to keep her fitness knowledge current.  Karen was one of the UK's first 
-								‘AntiGravity&reg; Aerial Yoga’ and ‘AntiGravity&reg; Aerial Pilates’ qualified Instructors leading 
+								Karen has a full knowledge of the fitness industry and has qualifications as a YMCA gym
+								instructor - Level 2.  She was handpicked to teach ‘New York City Ballet Workout’ as well as
+								‘Nike Rockstar Workouts’; her involvement in these different dance styles has inspired her to
+								find new ways to keep her fitness knowledge current.  Karen was one of the UK's first
+								‘AntiGravity&reg; Aerial Yoga’ and ‘AntiGravity&reg; Aerial Pilates’ qualified Instructors leading
 								AntiGravity&reg; Fitness classes at Bodybarre.
 							</p>
 							<p>
 								Karen is a Master Trainer for the ‘XPert’ Pole Instructor Training programs, a role that she fulfills across Europe.
 							</p>
 							<p>
-								Her Pole Dancing performance career reached its pinnacle as she successfully represented the 
-								UK at the World Pole Dance Championships. Known for her strong and unique pole dance style 
+								Her Pole Dancing performance career reached its pinnacle as she successfully represented the
+								UK at the World Pole Dance Championships. Known for her strong and unique pole dance style
 								she has captivated audiences worldwide and delivers pole classes across the UK and the world.
 							</p>
 						</div>
@@ -73,16 +73,16 @@
 							<i><h4 class="center gold">The bendy one!</h4></i>
 							<p>
 								Penny competes at a professional level in pole dance competitions and holds many pole titles.
-								Penny has worked in the pole dance industry since 2007 but has been dancing since the age of 
-								4! Penny’s training includes many dance disciplines from ballet to tap. Penny’s favourite 
+								Penny has worked in the pole dance industry since 2007 but has been dancing since the age of
+								4! Penny’s training includes many dance disciplines from ballet to tap. Penny’s favourite
 								pole moves are Jade, Star Gazer, Embrace and Flying Ballerina.
 							</p>
 							<p>
 								Penny’s pole influences are the ex-gymnasts who have made pole dance more acrobatic and gravity defying.
 							</p>
 							<p>
-								Penny’s aim is for every student to achieve something every lesson, no matter how big or 
-								small. Penny feels students should be able to forget any stresses of everyday life and enjoy the 
+								Penny’s aim is for every student to achieve something every lesson, no matter how big or
+								small. Penny feels students should be able to forget any stresses of everyday life and enjoy the
 								class, leaving the studio feeling empowered, self confident and happy.
 							</p>
 						</div>
@@ -99,12 +99,12 @@
 							</p>
 							<p>
 								Cassie loves to share her fitness knowledge, and makes each class fun whilst delivering safe,
-								effective sessions with an encouraging nature. She finds it hugely rewarding to watch her 
+								effective sessions with an encouraging nature. She finds it hugely rewarding to watch her
 								students grow in confidence as their fitness goals become achievable.
 							</p>
 							<p>
-								Cassie understands the importance of being a student herself, and she regularly attends 
-								instructor fitness courses, keeping her fitness knowledge current to ensure she delivers the 
+								Cassie understands the importance of being a student herself, and she regularly attends
+								instructor fitness courses, keeping her fitness knowledge current to ensure she delivers the
 								best classes for her students.
 							</p>
 							<p>
@@ -114,5 +114,5 @@
 					</div>
 				</div>
 			</div>
-			
+
 <?php include '../footer.php'; ?>

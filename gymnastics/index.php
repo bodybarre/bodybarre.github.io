@@ -2,20 +2,20 @@
 	include '../header.php';
 	include '../navigation.php';
 ?>
-			
-			<div class="row">
+
+			<div class="hidden-xs row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="../images/gymnastics_banner.png"/>
 				</div>
 			</div>
-			
+
 			<div class="row">
 				<div class="col-md-6">
 					<h3 class="pink">Four Week Course - All levels and suitable for the absolute beginner</h3>
 					<p>
-						Learn basic gymnastic skills such as forward and backward rolls, cartwheels and 
-						more. The session consists of a warm-up, flexibility and strength conditioning 
-						exercises, followed by a skills session. Gymnastics will improve performance in all 
+						Learn basic gymnastic skills such as forward and backward rolls, cartwheels and
+						more. The session consists of a warm-up, flexibility and strength conditioning
+						exercises, followed by a skills session. Gymnastics will improve performance in all
 						sports, as well as improving overall fitness and functional strength. It is fun.
 					</p>
 					<p class="gold">
@@ -56,7 +56,7 @@
 					<p>This four week course costs £30.00</p>
 				</div>
 			</div>
-			
+
 <?php
 	include '../footer.php';
 ?>
