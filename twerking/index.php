@@ -5,7 +5,7 @@
 
 		<div class="row margined-row">
 			<div class="col-md-12">
-				<img class="img-responsive" src="../images/twerking_banner.png"/>
+				<img class="img-responsive" src="../images/twerking_banner.png" alt="Twerking Banner"/>
 			</div>
 		</div>
 		<div class="row">

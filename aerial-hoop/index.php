@@ -2,10 +2,10 @@
 	include '../header.php';
 	include '../navigation.php';
 ?>
-			
+
 			<div class="row margined-row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="../images/hoop-banner.png"/>
+					<img class="img-responsive" src="../images/hoop_banner.png" alt="Aerial Hoop Banner"/>
 				</div>
 			</div>
 			<div class="row">
@@ -15,9 +15,9 @@
 						Aerial hoop is an amazing apparatus, which can be used in static or spinning mode.
 					</p>
 					<p>
-						Learn how to activate your core and build the strength you’ll need to get up and into 
-						the hoop! This course teaches you a mix of spins and poses with a big strength 
-						component for your upper body and abs, plus all over body flexibility and 
+						Learn how to activate your core and build the strength you’ll need to get up and into
+						the hoop! This course teaches you a mix of spins and poses with a big strength
+						component for your upper body and abs, plus all over body flexibility and
 						coordination.
 					</p>
 					<p>
@@ -64,7 +64,7 @@
 					<p>This six week course costs £55.00</p>
 				</div>
 			</div>
-			
+
 <?php
 	include '../footer.php';
 ?>
