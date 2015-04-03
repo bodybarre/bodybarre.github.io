@@ -31,7 +31,7 @@
 				<p>
 					<b>How long will it take before I can do a handstand?</b> If you commit to the course most find that their arm strength and core balance, improves dramatically within 4 weeks.
 				</p>
-				<p>
+				<p class="gold">
 					<i><b>Come and see why those who take part in Handstand training are the strongest of all!</b></i>
 				</p>
 			</div>
