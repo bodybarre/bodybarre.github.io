@@ -61,7 +61,7 @@
 				</div>
 				<div class="col-md-6">
 					<h3 class="pink">How much?</h3>
-					<p>This six week course costs £55.00</p>
+					<p>This six week course costs £55.00.</p>
 				</div>
 			</div>
 
