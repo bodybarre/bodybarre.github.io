@@ -109,8 +109,67 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<p><b>Wednesday</b>: <span class="gold">19:30 - 20:30</span></p>
-							<p><b>Sunday</b>: <span class="gold">10:30 - 11:30</span></p>
+							<p><b>Monday</b>: <span class="gold">19:45 - 20:30</span></p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<hr/>
+
+			<div class="row">
+				<div class="col-md-6">
+					<h3 class="pink">Sexy Pole Dance - Bronze, Silver, Gold &amp; Platinum</h3>
+					<p>
+						Strut this way for a sexy stripper style dance class. Strap on your high heels and prepare to steam up the mirrors.
+					</p>
+					<p>
+						Learn a fun routine of which oozes sex appeal, slinky floor work and basic pole tricks. A confidence
+						boosting, girl power class with slut drops, body rolls, hair flicks and twerking booty pops!
+					</p>
+				</div>
+				<div class="col-md-6">
+					<div class="row">
+						<div class="col-md-12">
+							<h3 class="pink">How much?</h3>
+							<p>This four week course costs £30.00.</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<h3 class="pink">When?</h3>
+							<p><b>Tuesday</b>: <span class="gold">17:45 - 18:30</span></p>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<hr/>
+
+			<div class="row">
+				<div class="col-md-6">
+					<h3 class="pink">Pole Jam - Bronze, Silver, Gold &amp; Platinum</h3>
+					<p>Alongside your weekly pole schedule, you can also come and enjoy some extra practice time.</p>
+					<p>
+						Pole Jam is a great opportunity to work on your favourite pole moves or perfect your pole dance routine. This
+						class is an informal, non-instructional practice session.
+					</p>
+					<p>
+						Please note you must complete the Bronze Beginners Pole Course before attending this session, as you will need a basic knowledge of pole skills to benefit from this
+						class. Pole Jam runs every Sunday on a drop-in basis, no need to book - just turn up.
+					</p>
+				</div>
+				<div class="col-md-6">
+					<div class="row">
+						<div class="col-md-12">
+							<h3 class="pink">How much?</h3>
+							<p>£5.00 per session, no need to book! This is a weekly drop in class; just turn up!</p>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12">
+							<h3 class="pink">When?</h3>
+							<p><b>Sunday</b>: <span class="gold">13:30 - 15:30</span></p>
 						</div>
 					</div>
 				</div>
