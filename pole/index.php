@@ -175,6 +175,40 @@
 				</div>
 			</div>
 
+			<hr/>
+
+			<div class="row">
+				<div class="col-md-6">
+					<h3 class="pink">Exercise Benefits</h3>
+					<ul class="ticked-list">
+						<li><span>Burn as many as 400 calories an hour, which is similar to a good gym session</span></li>
+						<li><span>Gain great upper body strength and tone</span></li>
+						<li><span>Strengthen and sculpt your stomach muscles</span></li>
+						<li><span>Increased all over muscle definition in your bottom, arms and thighs</span></li>
+						<li><span>Release the happy hormones making you feel better and more energetic</span></li>
+						<li><span>Increase confidence and improve fitness levels</span></li>
+					</ul>
+				</div>
+				<div class="col-md-6">
+					<h3 class="pink">What to wear?</h3>
+					<p>
+						Bare feet. Shorts or 3/4 leggings, crop top, vest or t-shirt.
+						Bring warm clothes you can move in for the warm up and conditioning section.
+						High Heeled shoes for Sexy Pole Dance. Please ensure your shoes have a strap.
+						Please do not use lotions/creams/fake tan on your body or hands before attending class as this makes the
+						poles slippery for you and everyone else.
+					</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<h3 class="pink">How to book?</h3>
+					<p>Book in advance only; limited places due to limited poles.</p>
+					<p>To check availability and to book a place, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
+				</div>
+			</div>
+
 <?php
 	include '../footer.php';
 ?>
