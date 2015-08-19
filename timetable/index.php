@@ -36,8 +36,14 @@
 
 			<div class="row">
 			<?php
+				$dayCounter = 0;
 				$xml = simplexml_load_file("timetable.xml") or die ("Unable to load timetable");
 				foreach($xml->day as $day) {
+					$dayCounter++;
+					if($dayCounter % 4 == 0) {
+						echo "</div>";
+						echo "<div class='row'>";
+					}
 					echo "<div class='col-md-4'>";
 					echo "<h2 class='gold'>".$day["value"]."</h2>";
 					foreach($day->studio as $studio) {
