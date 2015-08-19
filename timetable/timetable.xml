@@ -1,6 +1,5 @@
 <timetable>
 	<day value="Monday">
-		
 		<studio value="1">
 			<classes>
 				<class>
@@ -17,7 +16,6 @@
 				</class>
 			</classes>
 		</studio>
-
 		<studio value="2">
 			<classes>
 				<class>
@@ -34,10 +32,9 @@
 				</class>
 			</classes>
 		</studio>
-
 	</day>
-	<day value="Monday">
-		
+
+	<day value="Tuesday">
 		<studio value="1">
 			<classes>
 				<class>
@@ -54,7 +51,6 @@
 				</class>
 			</classes>
 		</studio>
-
 		<studio value="2">
 			<classes>
 				<class>
@@ -71,10 +67,9 @@
 				</class>
 			</classes>
 		</studio>
-
 	</day>
-	<day value="Monday">
-		
+
+	<day value="Wednesday">
 		<studio value="1">
 			<classes>
 				<class>
@@ -91,7 +86,6 @@
 				</class>
 			</classes>
 		</studio>
-
 		<studio value="2">
 			<classes>
 				<class>
@@ -108,10 +102,9 @@
 				</class>
 			</classes>
 		</studio>
-
 	</day>
-	<day value="Monday">
-		
+
+	<day value="Thursday">
 		<studio value="1">
 			<classes>
 				<class>
@@ -128,7 +121,6 @@
 				</class>
 			</classes>
 		</studio>
-
 		<studio value="2">
 			<classes>
 				<class>
@@ -145,10 +137,9 @@
 				</class>
 			</classes>
 		</studio>
-
 	</day>
-	<day value="Monday">
-		
+
+	<day value="Friday &amp; Saturday">
 		<studio value="1">
 			<classes>
 				<class>
@@ -165,7 +156,6 @@
 				</class>
 			</classes>
 		</studio>
-
 		<studio value="2">
 			<classes>
 				<class>
@@ -182,10 +172,9 @@
 				</class>
 			</classes>
 		</studio>
-
 	</day>
-	<day value="Monday">
-		
+
+	<day value="Sunday">
 		<studio value="1">
 			<classes>
 				<class>
@@ -202,7 +191,6 @@
 				</class>
 			</classes>
 		</studio>
-
 		<studio value="2">
 			<classes>
 				<class>
@@ -219,6 +207,5 @@
 				</class>
 			</classes>
 		</studio>
-
 	</day>
 </timetable>

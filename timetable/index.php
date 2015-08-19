@@ -24,7 +24,7 @@
 							<li><a href="#">Blog</a></li>
 							<li><a href="../contact">Contact</a></li>
 						</ul>
-					</div><!--/.nav-collapse -->
+					</div>
 				</div>
 			</nav>
 
@@ -42,11 +42,11 @@
 					echo "<h2 class='gold'>".$day["value"]."</h2>";
 					foreach($day->studio as $studio) {
 						echo "<table class='table table-condensed table-bordered'>";
-						echo "<tr><td colspan='2'><h4>Studio ".$studio["value"]."</h4></td></tr>";
+						echo "<tr><td colspan='2'><h4>Studio #".$studio["value"]."</h4></td></tr>";
 						foreach($studio->classes->class as $class) {
 							echo "<tr>";
 							echo "<td class='pink'>".$class->time."</td>";
-							echo "<td>".$class->title."<br/><i>".$class->booking."</i></td>";
+							echo "<td><a href=''>".$class->title."</a><br/><i>".$class->booking."</i></td>";
 							echo "</tr>";		
 						}
 						echo "</table>";
