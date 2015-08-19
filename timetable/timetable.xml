@@ -6,29 +6,59 @@
 					<title>Private Studio Hire</title>
 					<booking>Pre-book</booking>
 					<time>16:30-17:30</time>
-					<link>aerial-yoga</link>
+					<link>javascript:;</link>
 				</class>
 				<class>
 					<title>Pole Sport - All Levels</title>
 					<booking>Pre-Book (Student Discount)</booking>
 					<time>17:30 - 18:30</time>
-					<link>pole</link>
+					<link>../pole</link>
+				</class>
+				<class>
+					<title>Twerking</title>
+					<booking>PAYGO £5</booking>
+					<time>18:30 - 19:00</time>
+					<link>../twerking</link>
+				</class>
+				<class>
+					<title>Flirty Flex</title>
+					<booking>Pre-Book</booking>
+					<time>19:00 - 19:45</time>
+					<link>javascript:;</link>
+				</class>
+				<class>
+					<title>Lyrical Pole Dance</title>
+					<booking>Pre-Book</booking>
+					<time>19:45 - 20:30</time>
+					<link>../pole</link>
+				</class>
+				<class>
+					<title>Super Gold Pole Sport</title>
+					<booking>Pre-Book</booking>
+					<time>20:30 - 21:30</time>
+					<link>../pole</link>
 				</class>
 			</classes>
 		</studio>
 		<studio value="2">
 			<classes>
 				<class>
-					<title>Private Studio Hire</title>
+					<title>Pole Course</title>
 					<booking>Pre-book</booking>
-					<time>16:30-17:30</time>
-					<link></link>
+					<time>18:30-19:30</time>
+					<link>../pole</link>
 				</class>
 				<class>
 					<title>Pole Sport - All Levels</title>
-					<booking>Pre-Book (Student Discount)</booking>
-					<time>17:30 - 18:30</time>
-					<link></link>
+					<booking>Pre-book</booking>
+					<time>19:30-20:30</time>
+					<link>../pole</link>
+				</class>
+				<class>
+					<title>Handstands</title>
+					<booking>Pre-book</booking>
+					<time>20:30-21:15</time>
+					<link>../handstands</link>
 				</class>
 			</classes>
 		</studio>
