@@ -46,7 +46,7 @@
 						foreach($studio->classes->class as $class) {
 							echo "<tr>";
 							echo "<td class='pink'>".$class->time."</td>";
-							echo "<td><a href=''>".$class->title."</a><br/><i>".$class->booking."</i></td>";
+							echo "<td><a href='../".$class->link."'>".$class->title."</a><br/><i>".$class->booking."</i></td>";
 							echo "</tr>";		
 						}
 						echo "</table>";
