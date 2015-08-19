@@ -20,7 +20,7 @@
 							<li><a href="../training">Instructor Training</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="#">Blog</a></li>
+							<li><a href="../blog">Blog</a></li>
 							<li class="active"><a href="../contact">Contact</a></li>
 						</ul>
 					</div><!--/.nav-collapse -->

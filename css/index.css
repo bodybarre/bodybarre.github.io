@@ -76,3 +76,11 @@ ul.navbar-right a:hover {
 .table-condensed tbody tr td {
 	padding:5px 10px;
 }
+
+.under-construction {
+	margin-top:30px;
+	text-align:center;
+	font-size:24px;
+	font-weight:bold;
+	padding-bottom:20px;
+}
