@@ -1,0 +1,224 @@
+<timetable>
+	<day value="Monday">
+		
+		<studio value="1">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+		<studio value="2">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+	</day>
+	<day value="Monday">
+		
+		<studio value="1">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+		<studio value="2">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+	</day>
+	<day value="Monday">
+		
+		<studio value="1">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+		<studio value="2">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+	</day>
+	<day value="Monday">
+		
+		<studio value="1">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+		<studio value="2">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+	</day>
+	<day value="Monday">
+		
+		<studio value="1">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+		<studio value="2">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+	</day>
+	<day value="Monday">
+		
+		<studio value="1">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+		<studio value="2">
+			<classes>
+				<class>
+					<title>Private Studio Hire</title>
+					<booking>Pre-book</booking>
+					<time>16:30-17:30</time>
+					<link></link>
+				</class>
+				<class>
+					<title>Pole Sport - All Levels</title>
+					<booking>Pre-Book (Student Discount)</booking>
+					<time>17:30 - 18:30</time>
+					<link></link>
+				</class>
+			</classes>
+		</studio>
+
+	</day>
+</timetable>
