@@ -3,33 +3,38 @@
 		<studio value="1">
 			<classes>
 				<class>
-					<title>Pole Sport - All Levels</title>
+					<title>Pole Sport</title>
 					<booking>Pre-Book (Student Discount)</booking>
 					<time>17:30 - 18:30</time>
+					<level>All Levels</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Twerking - All Levels</title>
+					<title>Twerking</title>
 					<booking>PAYGO £5</booking>
 					<time>18:30 - 19:00</time>
+					<level>All Levels</level>
 					<link>../twerking</link>
 				</class>
 				<class>
-					<title>Flirty Flex - All Levels</title>
+					<title>Flirty Flex</title>
 					<booking>Pre-Book</booking>
 					<time>19:00 - 19:45</time>
-					<link>javascript:;</link>
+					<level>All Levels</level>
+					<link></link>
 				</class>
 				<class>
-					<title>Lyrical Pole Dance - All Levels</title>
+					<title>Lyrical Pole Dance</title>
 					<booking>Pre-Book</booking>
 					<time>19:45 - 20:30</time>
+					<level>All Levels</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Super Gold Pole Sport - Advanced</title>
+					<title>Super Gold Pole Sport</title>
 					<booking>Pre-Book</booking>
 					<time>20:30 - 21:30</time>
+					<level>Advanced</level>
 					<link>../pole</link>
 				</class>
 			</classes>
@@ -37,21 +42,24 @@
 		<studio value="2">
 			<classes>
 				<class>
-					<title>Pole Dancing Course - All Levels</title>
+					<title>Pole Dancing Course</title>
 					<booking>Pre-book</booking>
 					<time>18:30-19:30</time>
+					<level>All Levels</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Pole Sport - All Levels</title>
+					<title>Pole Sport</title>
 					<booking>Pre-book</booking>
 					<time>19:30-20:30</time>
+					<level>All Levels</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Handstands - All Levels</title>
+					<title>Handstands</title>
 					<booking>Pre-book</booking>
 					<time>20:30-21:15</time>
+					<level>All Levels</level>
 					<link>../handstands</link>
 				</class>
 			</classes>
@@ -62,27 +70,31 @@
 		<studio value="1">
 			<classes>
 				<class>
-					<title>Sexy Pole Dance - All Levels</title>
+					<title>Sexy Pole Dance</title>
 					<booking>Pre-book</booking>
 					<time>17.45 - 18.30</time>
+					<level>All Levels</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Burlesque - All Levels</title>
+					<title>Burlesque</title>
 					<booking>Pre-Book</booking>
 					<time>18:30 - 19:15</time>
+					<level>All Levels</level>
 					<link>../burlesque</link>
 				</class>
 				<class>
-					<title>Silver Pole Sport - Intermediate</title>
+					<title>Silver Pole Sport</title>
 					<booking>Pre-Book</booking>
 					<time>19:15 - 20:15</time>
+					<level>Intermediate</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Platinum Pole Sport - Elite</title>
+					<title>Platinum Pole Sport</title>
 					<booking>Pre-Book</booking>
 					<time>20:15 - 21:30</time>
+					<level>Elite</level>
 					<link>../pole</link>
 				</class>
 			</classes>
@@ -90,15 +102,17 @@
 		<studio value="2">
 			<classes>
 				<class>
-					<title>Handstands - All Levels</title>
+					<title>Handstands</title>
 					<booking>Pre-Book</booking>
 					<time>18:30 - 19:15</time>
+					<level>All Levels</level>
 					<link>../handstands</link>
 				</class>
 				<class>
-					<title>Bronze Pole Sport - Beginner</title>
+					<title>Bronze Pole Sport</title>
 					<booking>Pre-Book</booking>
 					<time>19:15 - 20:15</time>
+					<level>Beginner</level>
 					<link>../pole</link>
 				</class>
 			</classes>
@@ -109,21 +123,24 @@
 		<studio value="1">
 			<classes>
 				<class>
-					<title>Adult Gymnastics - All Levels</title>
+					<title>Adult Gymnastics</title>
 					<booking>Pre-book</booking>
 					<time>17:45 - 18:30</time>
+					<level>All Levels</level>
 					<link>../gymnastics</link>
 				</class>
 				<class>
-					<title>AntiGravity Pilates - All Levels</title>
+					<title>AntiGravity Pilates</title>
 					<booking>Pre-book</booking>
 					<time>18:30 - 19:30</time>
+					<level>All Levels</level>
 					<link>../aerial-yoga</link>
 				</class>
 				<class>
-					<title>AntiGravity Yoga Flying Fitness - All Levels</title>
+					<title>AntiGravity Yoga Flying Fitness</title>
 					<booking>Pre-book</booking>
 					<time>19:30 - 20:30</time>
+					<level>All Levels</level>
 					<link>../aerial-yoga</link>
 				</class>
 			</classes>
@@ -131,21 +148,24 @@
 		<studio value="2">
 			<classes>
 				<class>
-					<title>Bronze Pole Sport - Beginner</title>
+					<title>Bronze Pole Sport</title>
 					<booking>Pre-book</booking>
 					<time>18:30 - 19:30</time>
+					<level>Beginner</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Silver Pole Sport - Intermediate</title>
+					<title>Silver Pole Sport</title>
 					<booking>Pre-book</booking>
 					<time>19:30 - 20:30</time>
+					<level>Intermediate</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Pole Handstands - Intermediate</title>
+					<title>Pole Handstands</title>
 					<booking>Pre-book</booking>
 					<time>20:30 - 21:15</time>
+					<level>All Levels</level>
 					<link>../handstands</link>
 				</class>
 			</classes>
@@ -156,33 +176,38 @@
 		<studio value="1">
 			<classes>
 				<class>
-					<title>Aerial Silks - All Levels</title>
+					<title>Aerial Silks</title>
 					<booking>Pre-book</booking>
 					<time>17:30 - 18:30</time>
+					<level>All Levels</level>
 					<link>../aerial-silks</link>
 				</class>
 				<class>
-					<title>Pole Fabric - All Levels</title>
+					<title>Pole Fabric</title>
 					<booking>Pre-book</booking>
 					<time>17:45 - 18:30</time>
-					<link>../aerial-silks</link>
-				</class>
-				<class>
-					<title>Static Trapeze - All Levels</title>
-					<booking>Pre-book</booking>
-					<time>18:30 - 19:30</time>
-					<link>../trapeze</link>
-				</class>
-				<class>
-					<title>Hula Hoop - All Levels</title>
-					<booking>Pre-book</booking>
-					<time>19:30 - 20:15</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 				<class>
-					<title>Aerial Hoop - All Levels</title>
+					<title>Static Trapeze</title>
+					<booking>Pre-book</booking>
+					<time>18:30 - 19:30</time>
+					<level>All Levels</level>
+					<link>../trapeze</link>
+				</class>
+				<class>
+					<title>Hula Hoop</title>
+					<booking>Pre-book</booking>
+					<time>19:30 - 20:15</time>
+					<level>All Levels</level>
+					<link></link>
+				</class>
+				<class>
+					<title>Aerial Hoop</title>
 					<booking>Pre-book</booking>
 					<time>20:30 - 21:30</time>
+					<level>All Levels</level>
 					<link>../aerial-hoop</link>
 				</class>
 			</classes>
@@ -190,21 +215,24 @@
 		<studio value="2">
 			<classes>
 				<class>
-					<title>Gold Pole Sport - Advanced</title>
+					<title>Gold Pole Sport</title>
 					<booking>Pre-book</booking>
 					<time>18:30 - 19:30</time>
+					<level>Advanced</level>
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Splits Stretch - All Levels</title>
+					<title>Splits Stretch</title>
 					<booking>Pre-book</booking>
 					<time>19:30 - 20:15</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 				<class>
-					<title>Pole Splits - All Levels</title>
+					<title>Pole Splits</title>
 					<booking>Pre-book</booking>
 					<time>20:30 - 21:15</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 			</classes>
@@ -218,6 +246,7 @@
 					<title>Private Studio Hire</title>
 					<booking>Pre-book</booking>
 					<time>11:00 - 21:30</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 			</classes>
@@ -228,57 +257,66 @@
 		<studio value="1">
 			<classes>
 				<class>
-					<title>AntiGravity Yoga Flying Fitness - All Levels</title>
+					<title>AntiGravity Yoga Flying Fitness </title>
 					<booking>Pre-book</booking>
 					<time>10:30 - 11:30</time>
+					<level>All Levels</level>
 					<link>../aerial-yoga</link>
 				</class>
 				<class>
-					<title>Aerial Silks - All Levels</title>
+					<title>Aerial Silks</title>
 					<booking>Pre-book</booking>
 					<time>11:30 - 12:30</time>
+					<level>All Levels</level>
 					<link>../aerial-silks</link>
 				</class>
 				<class>
-					<title>AntiGravity Yoga SloFlow Stretch - All Levels</title>
+					<title>AntiGravity Yoga SloFlow Stretch</title>
 					<booking>Pre-book</booking>
 					<time>11:30 - 12:30</time>
+					<level>All Levels</level>
 					<link>../aerial-yoga</link>
 				</class>
 				<class>
-					<title>Kettlercise - All Levels</title>
+					<title>Kettlercise</title>
 					<booking>PAYGO £6</booking>
 					<time>12:30 - 13:15</time>
+					<level>All Levels</level>
 					<link>../kettlercise</link>
 				</class>
 				<class>
-					<title>Jump Dance - All Levels</title>
+					<title>Jump Dance</title>
 					<booking>PAYGO £5</booking>
 					<time>13:15 - 13:45</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 				<class>
-					<title>Pole and Aerial Jam - All Levels</title>
+					<title>Pole and Aerial Jam</title>
 					<booking>PAYGO £5 (Non-Instructional)</booking>
 					<time>13:45 - 15:45</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 				<class>
-					<title>Workshops - All Levels</title>
+					<title>Workshops</title>
 					<booking>Pre-book</booking>
 					<time>15:45 - 16:45</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 				<class>
-					<title>Bendy Backs - All Levels</title>
+					<title>Bendy Backs</title>
 					<booking>Pre-book</booking>
 					<time>16:45 - 17:30</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 				<class>
-					<title>Aerial Hoop - All Levels</title>
+					<title>Aerial Hoop</title>
 					<booking>Pre-book</booking>
 					<time>17:30 - 18:30</time>
+					<level>All Levels</level>
 					<link>../aerial-hoop</link>
 				</class>
 			</classes>
@@ -286,21 +324,24 @@
 		<studio value="2">
 			<classes>
 				<class>
-					<title>Kids Pole Development Squad - All Levels</title>
+					<title>Kids Pole Development Squad</title>
 					<booking>Pre-book</booking>
 					<time>11:30 - 12:30</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 				<class>
-					<title>Kids Aerial Circus - All Levels</title>
+					<title>Kids Aerial Circus</title>
 					<booking>Pre-book</booking>
 					<time>12:30 - 13:15</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 				<class>
-					<title>Private Tuition - All Levels</title>
+					<title>Private Tuition</title>
 					<booking>Pre-book</booking>
 					<time>14:15 - 15:15</time>
+					<level>All Levels</level>
 					<link></link>
 				</class>
 			</classes>
