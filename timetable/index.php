@@ -50,9 +50,16 @@
 						echo "<table class='table table-condensed table-bordered'>";
 						echo "<tr><td colspan='2'><h4>Studio #".$studio["value"]."</h4></td></tr>";
 						foreach($studio->classes->class as $class) {
+
+							$info = "";
+							if(isset($class->link)) {
+								$info = "<td><a href='".$class->link."'>".$class->title."</a><br><i>".$class->level."</i><br/><i>".$class->booking."</i></td>";
+							} else {
+								$info = "<td><span class='pink'>".$class->title."</span><br><i>".$class->level."</i><br/><i>".$class->booking."</i></td>";
+							}
 							echo "<tr>";
 							echo "<td class='pink'>".$class->time."</td>";
-							echo "<td><a href='".$class->link."'>".$class->title."</a><br><i>".$class->level."</i><br/><i>".$class->booking."</i></td>";
+							echo $info;
 							echo "</tr>";		
 						}
 						echo "</table>";

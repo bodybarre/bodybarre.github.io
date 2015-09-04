@@ -21,7 +21,6 @@
 					<booking>Pre-Book</booking>
 					<time>19:00 - 19:45</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Lyrical Pole Dance</title>
@@ -187,7 +186,7 @@
 					<booking>Pre-book</booking>
 					<time>17:45 - 18:30</time>
 					<level>All Levels</level>
-					<link></link>
+					
 				</class>
 				<class>
 					<title>Static Trapeze</title>
@@ -201,7 +200,6 @@
 					<booking>Pre-book</booking>
 					<time>19:30 - 20:15</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Aerial Hoop</title>
@@ -226,14 +224,12 @@
 					<booking>Pre-book</booking>
 					<time>19:30 - 20:15</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Pole Splits</title>
 					<booking>Pre-book</booking>
 					<time>20:30 - 21:15</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 			</classes>
 		</studio>
@@ -247,7 +243,6 @@
 					<booking>Pre-book</booking>
 					<time>11:00 - 21:30</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 			</classes>
 		</studio>
@@ -289,28 +284,24 @@
 					<booking>PAYGO £5</booking>
 					<time>13:15 - 13:45</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Pole and Aerial Jam</title>
 					<booking>PAYGO £5 (Non-Instructional)</booking>
 					<time>13:45 - 15:45</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Workshops</title>
 					<booking>Pre-book</booking>
 					<time>15:45 - 16:45</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Bendy Backs</title>
 					<booking>Pre-book</booking>
 					<time>16:45 - 17:30</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Aerial Hoop</title>
@@ -328,21 +319,18 @@
 					<booking>Pre-book</booking>
 					<time>11:30 - 12:30</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Kids Aerial Circus</title>
 					<booking>Pre-book</booking>
 					<time>12:30 - 13:15</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 				<class>
 					<title>Private Tuition</title>
 					<booking>Pre-book</booking>
 					<time>14:15 - 15:15</time>
 					<level>All Levels</level>
-					<link></link>
 				</class>
 			</classes>
 		</studio>
