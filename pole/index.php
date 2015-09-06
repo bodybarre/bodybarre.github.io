@@ -36,7 +36,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<p><b>Monday</b>: <span class="gold">18:30 - 19:30</span></p>
+							<?php echo getClassTimesFor("Pole Dancing Course"); ?>
 						</div>
 					</div>
 				</div>
@@ -71,15 +71,11 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<p><b>Monday</b> (All Levels): <span class="gold">17:30 - 18:30</span></p>
-							<p><b>Monday</b> (All Levels): <span class="gold">19:30 - 20:30</span></p>
-							<p><b>Monday</b> (Super Gold Advanced Plus): <span class="gold">20:30 - 21:30</span></p>
-							<p><b>Tuesday</b> (Bronze Beginner): <span class="gold">19:15 - 20:15</span></p>
-							<p><b>Tuesday</b> (Silver Intermediate): <span class="gold">19:15 - 20:15</span></p>
-							<p><b>Tuesday</b> (Platinum Elite): <span class="gold">20:15 - 21:30</span></p>
-							<p><b>Wednesday</b> (Bronze Beginner): <span class="gold">18:30 - 19:30</span></p>
-							<p><b>Wednesday</b> (Silver Intermediate): <span class="gold">19:15 - 20:15</span></p>
-							<p><b>Thursday</b> (Gold Advanced): <span class="gold">18:30 - 19:30</span></p>
+							<?php echo getClassTimesWithLevelsFor("Bronze Pole Sport"); ?>
+							<?php echo getClassTimesWithLevelsFor("Silver Pole Sport"); ?>
+							<?php echo getClassTimesWithLevelsFor("Gold Pole Sport"); ?>
+							<?php echo getClassTimesWithLevelsFor("Super Gold Pole Sport"); ?>
+							<?php echo getClassTimesWithLevelsFor("Platinum Pole Sport"); ?>
 						</div>
 					</div>
 				</div>
@@ -109,7 +105,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<p><b>Monday</b>: <span class="gold">19:45 - 20:30</span></p>
+							<?php echo getClassTimesWithLevelsFor("Lyrical Pole Dance"); ?>
 						</div>
 					</div>
 				</div>
@@ -138,7 +134,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<p><b>Tuesday</b>: <span class="gold">17:45 - 18:30</span></p>
+							<?php echo getClassTimesWithLevelsFor("Sexy Pole Dance"); ?>
 						</div>
 					</div>
 				</div>
@@ -169,7 +165,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<p><b>Sunday</b>: <span class="gold">13:30 - 15:30</span></p>
+							<?php echo getClassTimesWithLevelsFor("Pole and Aerial Jam"); ?>
 						</div>
 					</div>
 				</div>
@@ -194,7 +190,9 @@
 					<p>
 						Bare feet. Shorts or 3/4 leggings, crop top, vest or t-shirt.
 						Bring warm clothes you can move in for the warm up and conditioning section.
-						High Heeled shoes for Sexy Pole Dance. Please ensure your shoes have a strap.
+						High heeled shoes for Sexy Pole Dance. Please ensure your shoes have a strap.
+					</p>
+					<p>
 						Please do not use lotions/creams/fake tan on your body or hands before attending class as this makes the
 						poles slippery for you and everyone else.
 					</p>

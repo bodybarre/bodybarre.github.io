@@ -5,7 +5,7 @@
 
 			<div class="hidden-xs row margined-row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="../images/kids-circus_banner.png" alt="Kids Aerial Circus Banner"/>
+					<img class="img-responsive" src="../images/kids-circus_banner.png" alt="Kids Banner"/>
 				</div>
 			</div>
 			<div class="row">

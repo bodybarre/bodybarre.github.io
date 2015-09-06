@@ -66,7 +66,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<p><b>Tuesday</b>: <span class="gold">18:30 - 19:15</span></p>
+							<?php echo getClassTimesFor("Burlesque"); ?>
 						</div>
 					</div>
 				</div>
@@ -81,6 +81,28 @@
 					<h3 class="pink">How much?</h3>
 					<p>The four week burlesque course costs £30.00</p>
 					<p>Prices vary for burlesque show. E-mail <span class="gold">karen@bodybarre.co.uk</span> to discuss your requirements.</p>
+				</div>
+			</div>
+			<hr/>
+			<div class="row">
+				<div class="col-md-6">
+					<h3 class="pink">Professional burlesque dance troupe</h3>
+					<p>
+						Bodybarre produces full length and short version shows to bring a unique Burlesque buzz for any
+						occasion.
+						Book the Bodybarre Burlesquers to entertain at your event and they will arrive armed and ready with
+						twirling tassels, colourful costumes and sleek sensual dance routines.
+						Our dancers have appeared on TV, entertained at corporate events, and even danced the Can-Can on
+						ice on the TV show "Torvill and Dean's Dancing On Ice"!
+					</p>
+					<p>
+						Fun loving dance packages are available for high-class tease and engaging excitement.
+					</p>
+				</div>
+				<div class="col-md-6">
+					<h3 class="pink">How to book?</h3>
+					<p>Book in advance only.</p>
+					<p>To check availability and book, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
 				</div>
 			</div>
 

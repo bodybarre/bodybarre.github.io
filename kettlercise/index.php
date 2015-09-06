@@ -60,7 +60,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<p><b>Monday</b>: <span class="gold">19:00 - 19:45</span></p>
+							<?php echo getClassTimesFor("Kettlercise"); ?>
 						</div>
 					</div>
 				</div>

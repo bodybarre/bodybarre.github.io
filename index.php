@@ -86,7 +86,7 @@
 					<a href="kettlercise"><img class="img-responsive" src="images/kettlercise.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="kids-aerial-circus"><img class="img-responsive" src="images/kids-circus.png"/></a>
+					<a href="kids"><img class="img-responsive" src="images/kids-circus.png"/></a>
 				</div>
 			</div>
 			
@@ -94,7 +94,7 @@
 			
 			<div class="row margined-row">
 				<div class="col-xs-6">
-					Copyright &copy; Bodybarre <?php echo date("Y"); ?>
+					<span style="font-size:12px">Copyright &copy; Bodybarre <?php echo date("Y"); ?></span>
 				</div>
 				<div class="col-xs-6 right">
 					<a href="http://www.twitter.com/BodybarreUK"><img src="images/twitter.png"/></a>

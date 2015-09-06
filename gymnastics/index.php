@@ -42,7 +42,7 @@
 				</div>
 				<div class="col-md-6">
 					<h3 class="pink">When?</h3>
-					<p><b>Wednesday</b>: <span class="gold">17:30 - 18:30</span></p>
+					<?php echo getClassTimesFor("Adult Gymnastics"); ?>
 				</div>
 			</div>
 			<div class="row margined-row">

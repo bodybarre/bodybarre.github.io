@@ -20,16 +20,16 @@
 					unleash their inner child!
 				</p>
 				<p>
-					<b>Do I need to be able to do a handstand to attend this class?</b> NO
+					<b class="pink">Do I need to be able to do a handstand to attend this class?</b> NO
 				</p>
 				<p>
-					<b>I'm scared of handstands! Will I fall?</b> No need to be scared, you will be supported physically and mentally and have the luxury of nice soft safety mats!
+					<b class="pink">I'm scared of handstands! Will I fall?</b> No need to be scared, you will be supported physically and mentally and have the luxury of nice soft safety mats!
 				</p>
 				<p>
-					<b>Will I feel proud of what I achieve each lesson?</b> YES!
+					<b class="pink">Will I feel proud of what I achieve each lesson?</b> YES!
 				</p>
 				<p>
-					<b>How long will it take before I can do a handstand?</b> If you commit to the course most find that their arm strength and core balance, improves dramatically within 4 weeks.
+					<b class="pink">How long will it take before I can do a handstand?</b> If you commit to the course most find that their arm strength and core balance, improves dramatically within 4 weeks.
 				</p>
 				<p class="gold">
 					<i><b>Come and see why those who take part in Handstand training are the strongest of all!</b></i>
@@ -59,7 +59,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h3 class="pink">When?</h3>
-						<p><b>Tuesday</b>: <span class="gold">18:30 - 19:15</span></p>
+						<?php echo getClassTimesFor("Handstands"); ?>
 					</div>
 				</div>
 			</div>
@@ -112,7 +112,7 @@
 			</div>
 			<div class="col-md-6">
 				<h3 class="pink">When?</h3>
-				<p><b>Wednesday</b>: <span class="gold">18:30 - 19:15</span></p>
+				<?php echo getClassTimesFor("Pole Handstands"); ?>
 			</div>
 		</div>
 		<div class="row margined-row">

@@ -33,7 +33,7 @@
 					<title>Super Gold Pole Sport</title>
 					<booking>Pre-Book</booking>
 					<time>20:30 - 21:30</time>
-					<level>Advanced</level>
+					<level>Advanced Plus</level>
 					<link>../pole</link>
 				</class>
 			</classes>
@@ -43,21 +43,21 @@
 				<class>
 					<title>Pole Dancing Course</title>
 					<booking>Pre-book</booking>
-					<time>18:30-19:30</time>
+					<time>18:30 - 19:30</time>
 					<level>All Levels</level>
 					<link>../pole</link>
 				</class>
 				<class>
 					<title>Pole Sport</title>
 					<booking>Pre-book</booking>
-					<time>19:30-20:30</time>
+					<time>19:30 - 20:30</time>
 					<level>All Levels</level>
 					<link>../pole</link>
 				</class>
 				<class>
 					<title>Handstands</title>
 					<booking>Pre-book</booking>
-					<time>20:30-21:15</time>
+					<time>20:30 - 21:15</time>
 					<level>All Levels</level>
 					<link>../handstands</link>
 				</class>
