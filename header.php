@@ -1,3 +1,20 @@
+<?php 
+	function getClassTimesFor($classTitle) {
+		$result = "";
+		$xml = simplexml_load_file("../timetable/timetable.xml") or die ("Unable to load webpage. Please contact karen@bodybarre.co.uk");
+		foreach($xml->day as $day) {
+			foreach($day->studio as $studio) {
+				foreach($studio->classes->class as $class) {
+					if($class->title == $classTitle) {
+						$result =  $result."<p><b>".$day["value"]."</b>: <span class='gold'>".$class->time."</span></p>";
+					}
+				}
+			}
+		}
+		return $result;
+	}
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>

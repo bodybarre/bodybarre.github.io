@@ -37,7 +37,7 @@
 			<div class="row">
 			<?php
 				$dayCounter = 0;
-				$xml = simplexml_load_file("timetable.xml") or die ("Unable to load timetable");
+				$xml = simplexml_load_file("timetable.xml") or die ("Unable to load webpage. Please contact karen@bodybarre.co.uk");
 				foreach($xml->day as $day) {
 					$dayCounter++;
 					if($dayCounter % 4 == 0) {

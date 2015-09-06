@@ -2,7 +2,7 @@
 	include '../header.php';
 	include '../navigation.php';
 ?>
-
+			
 			<div class="hidden-xs row margined-row">
 				<div class="col-md-12">
 					<img class="img-responsive" src="../images/hoop_banner.png" alt="Aerial Hoop Banner"/>
@@ -49,8 +49,7 @@
 				</div>
 				<div class="col-md-6">
 					<h3 class="pink">When?</h3>
-					<p><b>Thursday</b>: <span class="gold">20:30 - 21:30</span></p>
-					<p><b>Sunday</b>: <span class="gold">17:30 - 18:30</span></p>
+					<?php echo getClassTimesFor("Aerial Hoop"); ?>
 				</div>
 			</div>
 			<div class="row margined-row">
