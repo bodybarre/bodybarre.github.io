@@ -16,7 +16,7 @@
 			
 			<div class="row">
 				<div class="col-md-offset-4 col-md-4 margined-row">
-					<a href="/bodybarre.co.uk"><img class="img-responsive" src="images/logo.png" alt="Bodybarre Logo"/></a>
+					<a href="http://www.bodybarre.co.uk"><img class="img-responsive" src="images/logo.png" alt="Bodybarre Logo"/></a>
 				</div>
 			</div>
 			
@@ -87,7 +87,7 @@
 					<a href="kettlercise"><img class="img-responsive" src="images/kettlercise.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="kids"><img class="img-responsive" src="images/kids-circus.png"/></a>
+					<a href="kids"><img class="img-responsive" src="images/kids.png"/></a>
 				</div>
 			</div>
 			
