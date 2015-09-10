@@ -34,6 +34,7 @@
 <html lang="en">
 	<head>
 		<title>Bodybarre | Pole Dance Courses | Dancing Lessons | Burlesque | Bombshells</title>
+		<link rel="shortcut icon" href="../images/favicon.ico" />
 		<meta name="keywords" content="fitness, classes, Pole, Burlesque, Aerial Hoop, Trapeze, Yoga, Pilates, Anti Gravity, Manchester" />
 		<meta name="description" content="Welcome to Bodybarre, Manchester’s finest and most innovative Pole Dance, Burlesque and Aerial Fitness Studio. Located on the hippest street in Central Manchester you will find the very luxurious, boutique styled fitness studio." />
 		<meta http-equiv="content-type" content="text/html;charset=UTF-8" />

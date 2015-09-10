@@ -29,7 +29,11 @@
 		
 			<div class="row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="http://lorempixel.com/1200/200/"/>
+					<div class="under-construction">
+						This page is currently under construction.
+						<br/><br/>
+						<i><span class="gold">Check back soon!</span></i>
+					</div>
 				</div>
 			</div>
 			

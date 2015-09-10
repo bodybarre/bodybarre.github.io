@@ -27,23 +27,21 @@
 				</div>
 			</nav>
 
-			<div class="hidden-xs row margined-row">
+			<div class="row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="../images/contact_banner.png"/>
+					<div class="under-construction">
+						This page is currently under construction.
+						<br/><br/>
+						<i><span class="gold">Check back soon!</span></i>
+					</div>
 				</div>
 			</div>
-
+			<br/>
 			<div class="row">
-				<div class="col-xs-12 col-sm-8">
-					<h3 class="pink">Where are we?</h3>
-					<p>
-						On the hippest street in Central Manchester you will find the very luxurious,
-						boutique styled fitness studio, perfectly placed in the hub of the vibrant and
-						exciting Northern Quarter.
+				<div style="text-align:center; font-size:16px;" class="col-md-12">
+					<p class="pink">
+						In the mean time, contact karen@bodybarre.co.uk for any and all queries!
 					</p>
-				</div>
-				<div class="col-xs-12 col-sm-4">
-					<div id="map"></div>
 				</div>
 			</div>
 			<script src="https://maps.googleapis.com/maps/api/js"></script>

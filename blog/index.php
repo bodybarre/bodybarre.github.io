@@ -27,12 +27,6 @@
 			</div>
 		</div>
 	</nav>
-	<div class="hidden-xs row">
-		<div class="col-md-12">
-			<img class="img-responsive" src="../images/under_construction.png" alt="Under Construction"/>
-		</div>
-	</div>
-
 	<div class="row">
 		<div class="col-md-12">
 			<div class="under-construction">

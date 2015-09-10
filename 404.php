@@ -47,51 +47,14 @@
 			</nav>
 		
 			<div class="row">
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="pole"><img class="img-responsive" src="images/pole.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="aerial-yoga"><img class="img-responsive" src="images/yoga.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="aerial-hoop"><img class="img-responsive" src="images/hoop.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="aerial-silks"><img class="img-responsive" src="images/silks.png"/></a>
+				<div class="col-md-12">
+					<div class="under-construction">
+						404
+						<br/><br/>
+						<i><span class="gold">That page doesn't exist!</span></i>
+					</div>
 				</div>
 			</div>
-			
-			<div class="row">
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="trapeze"><img class="img-responsive" src="images/trapeze.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="twerking"><img class="img-responsive" src="images/twerking.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="gymnastics"><img class="img-responsive" src="images/gymnastics.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="handstands"><img class="img-responsive" src="images/handstands.png"/></a>
-				</div>
-			</div>
-			
-			<div class="row">
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="burlesque"><img class="img-responsive" src="images/burlesque.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="stretching"><img class="img-responsive" src="images/stretching.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="kettlercise"><img class="img-responsive" src="images/kettlercise.png"/></a>
-				</div>
-				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="kids"><img class="img-responsive" src="images/kids-circus.png"/></a>
-				</div>
-			</div>
-			
-			<hr/>
 			
 			<div class="row margined-row">
 				<div class="col-xs-6">
