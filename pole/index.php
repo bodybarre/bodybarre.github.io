@@ -46,7 +46,7 @@
 
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">Pole Squad - Bronze, Silver, Gold &amp; Platinum</h3>
+					<h3 class="pink">Pole Squad</h3>
 					<p>Pole Squad is a follow up, weekly pole class for all who have completed at least, the pole dancing Bronze beginner’s course.</p>
 					<p>
 						This is a relaxed series of lessons that provides time for you to train with the irreplaceable friends you will have
@@ -85,7 +85,7 @@
 
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">Lyrical Pole Dance - Bronze, Silver, Gold &amp; Platinum</h3>
+					<h3 class="pink">Lyrical Pole Dance</h3>
 					<p>Challenge your cardio fitness and indulge in the smoothness of Pole routines.</p>
 					<p>
 						Lyrical Pole Dance offers a more contemporary dance based pole class, which is easy to follow,
@@ -115,7 +115,7 @@
 
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">Sexy Pole Dance - Bronze, Silver, Gold &amp; Platinum</h3>
+					<h3 class="pink">Sexy Pole Dance</h3>
 					<p>
 						Strut this way for a sexy stripper style dance class. Strap on your high heels and prepare to steam up the mirrors.
 					</p>
@@ -144,7 +144,7 @@
 
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">Pole Jam - Bronze, Silver, Gold &amp; Platinum</h3>
+					<h3 class="pink">Pole Jam</h3>
 					<p>Alongside your weekly pole schedule, you can also come and enjoy some extra practice time.</p>
 					<p>
 						Pole Jam is a great opportunity to work on your favourite pole moves or perfect your pole dance routine. This
