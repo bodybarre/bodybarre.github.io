@@ -94,6 +94,9 @@
 					<p>
 						Enjoy the challenge of creative pole dance and learn how to glide effortlessly around the pole.
 					</p>
+					<p class="gold">
+						<i><b>Dance like nobody is watching.</b></i>
+					</p>
 				</div>
 				<div class="col-md-6">
 					<div class="row">
@@ -122,6 +125,9 @@
 					<p>
 						Learn a fun routine of which oozes sex appeal, slinky floor work and basic pole tricks. A confidence
 						boosting, girl power class with slut drops, body rolls, hair flicks and twerking booty pops!
+					</p>
+					<p class="gold">
+						<i><b>Dance like someone is watching!</b></i>
 					</p>
 				</div>
 				<div class="col-md-6">
@@ -153,6 +159,9 @@
 					<p>
 						Please note you must complete the Bronze Beginners Pole Course before attending this session, as you will need a basic knowledge of pole skills to benefit from this
 						class. Pole Jam runs every Sunday on a drop-in basis, no need to book - just turn up.
+					</p>
+					<p class="gold">
+						<i><b>Practice makes perfect!</b></i>
 					</p>
 				</div>
 				<div class="col-md-6">
