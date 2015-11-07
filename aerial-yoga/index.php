@@ -7,6 +7,7 @@
 					<img class="img-responsive" src="../images/yoga_banner.png" alt="Yoga Banner"/>
 				</div>
 			</div>
+			
 			<div class="row">
 				<div class="col-md-6">
 					<h3 class="pink">AntiGravity Yoga - All levels and suitable for the absolute beginner</h3>
@@ -32,47 +33,17 @@
 				<div class="col-md-6">
 					<div class="row">
 						<div class="col-md-12">
-							<h3 class="pink">Exercise Benefits</h3>
-							<ul class="ticked-list">
-								<li><span>Improve fitness in a fun an intriguing way</span></li>
-								<li><span>Improve strength and muscle tone</span></li>
-								<li><span>Complete challenging inverted Yoga positions without back and neck compressions</span></li>
-								<li><span>Maintain Yoga positions longer with proper alignment</span></li>
-								<li><span>Relieve compressed joints and realign the spine</span></li>
-							</ul>
+							<h3 class="pink">How much?</h3>
+							<p>This six week course costs £55.00.</p>
 						</div>
-					</div>
-					<div class="row">
 						<div class="col-md-12">
-							<h3 class="pink">What to wear?</h3>
-							<p>
-								Please remove all jewellery. Please do not wear any clothing with buckles or zippers (anything that can snag the hammocks).
-								For better comfort when using the hammocks, please wear tops with short sleeves; no vests. 
-								Please do not wear clothes that are slippery; cotton is best! Please do not wear shoes – socks only!
-								A good sports bra is recommended, as you will spend time upside down.
-							</p>
+							<h3 class="pink">When?</h3>
+							<?php echo getClassTimesFor("AntiGravity Yoga"); ?>
 						</div>
 					</div>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-md-6">
-					<h3 class="pink">How much?</h3>
-					<p>This six week course costs £55.00.</p>
-				</div>
-				<div class="col-md-6">
-					<h3 class="pink">When?</h3>
-					<?php echo getClassTimesFor("AntiGravity Yoga"); ?>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<h3 class="pink">How to book?</h3>
-					<p>Book in advance only; limited places due to limited hammocks.</p>
-					<p>To check availability and to book a place, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
-				</div>
-			</div>
-			
+
 			<hr/>
 			
 			<div class="row">
@@ -101,44 +72,14 @@
 				<div class="col-md-6">
 					<div class="row">
 						<div class="col-md-12">
-							<h3 class="pink">Exercise Benefits</h3>
-							<ul class="ticked-list">
-								<li><span>Improve fitness in a fun an intriguing way</span></li>
-								<li><span>Improve strength and muscle tone</span></li>
-								<li><span>Complete challenging inverted Yoga positions without back and neck compressions</span></li>
-								<li><span>Maintain Yoga positions longer with proper alignment</span></li>
-								<li><span>Relieve compressed joints and realign the spine</span></li>
-							</ul>
+							<h3 class="pink">How much?</h3>
+							<p>This six week course is £55.00.</p>
 						</div>
-					</div>
-					<div class="row">
 						<div class="col-md-12">
-							<h3 class="pink">What to wear?</h3>
-							<p>
-								Please remove all jewellery. Please do not wear any clothing with buckles or zippers (anything that can snag the hammocks).
-								For better comfort when using the hammocks, please wear tops with short sleeves; no vests. 
-								Please do not wear clothes that are slippery; cotton is best! Please do not wear shoes – socks only!
-								A good sports bra is recommended, as you will spend time upside down.
-							</p>
+							<h3 class="pink">When?</h3>
+							<?php echo getClassTimesFor("AntiGravity Pilates"); ?>
 						</div>
 					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-6">
-					<h3 class="pink">How much?</h3>
-					<p>This six week course is £55.00.</p>
-				</div>
-				<div class="col-md-6">
-					<h3 class="pink">When?</h3>
-					<?php echo getClassTimesFor("AntiGravity Pilates"); ?>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<h3 class="pink">How to book?</h3>
-					<p>Book in advance only; limited places due to limited hammocks.</p>
-					<p>To check availability and to book a place, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
 				</div>
 			</div>
 			
@@ -168,39 +109,41 @@
 				<div class="col-md-6">
 					<div class="row">
 						<div class="col-md-12">
-							<h3 class="pink">Exercise Benefits</h3>
-							<ul class="ticked-list">
-								<li><span>Improve fitness in a fun an intriguing way</span></li>
-								<li><span>Improve strength and muscle tone</span></li>
-								<li><span>Complete challenging inverted Yoga positions without back and neck compressions</span></li>
-								<li><span>Maintain Yoga positions longer with proper alignment</span></li>
-								<li><span>Relieve compressed joints and realign the spine</span></li>
-							</ul>
+							<h3 class="pink">How much?</h3>
+							<p>This six week course is £55.00.</p>
 						</div>
-					</div>
-					<div class="row">
 						<div class="col-md-12">
-							<h3 class="pink">What to wear?</h3>
-							<p>
-								Please remove all jewellery. Please do not wear any clothing with buckles or zippers (anything that can snag the hammocks).
-								For better comfort when using the hammocks, please wear tops with short sleeves; no vests. 
-								Please do not wear clothes that are slippery; cotton is best! Please do not wear shoes – socks only!
-								A good sports bra is recommended, as you will spend time upside down.
-							</p>
+							<h3 class="pink">When?</h3>
+							<?php echo getClassTimesFor("AntiGravity Yoga SloFlow Stretch"); ?>
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<hr/>
+
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">How much?</h3>
-					<p>This six week course is £55.00.</p>
+					<h3 class="pink">Exercise Benefits</h3>
+					<ul class="ticked-list">
+						<li><span>Improve fitness in a fun an intriguing way</span></li>
+						<li><span>Improve strength and muscle tone</span></li>
+						<li><span>Complete challenging inverted Yoga positions without back and neck compressions</span></li>
+						<li><span>Maintain Yoga positions longer with proper alignment</span></li>
+						<li><span>Relieve compressed joints and realign the spine</span></li>
+					</ul>
 				</div>
 				<div class="col-md-6">
-					<h3 class="pink">When?</h3>
-					<?php echo getClassTimesFor("AntiGravity Yoga SloFlow Stretch"); ?>
+					<h3 class="pink">What to wear?</h3>
+					<p>
+						Please remove all jewellery. Please do not wear any clothing with buckles or zippers (anything that can snag the hammocks).
+						For better comfort when using the hammocks, please wear tops with short sleeves; no vests. 
+						Please do not wear clothes that are slippery; cotton is best! Please do not wear shoes – socks only!
+						A good sports bra is recommended, as you will spend time upside down.
+					</p>
 				</div>
 			</div>
+
 			<div class="row">
 				<div class="col-md-12">
 					<h3 class="pink">How to book?</h3>
