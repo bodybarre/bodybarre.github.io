@@ -38,7 +38,7 @@
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesWithLevelsFor("AntiGravity Yoga"); ?>
+							<?php echo getClassTimesWithLevelsFor("AntiGravity Aerial Yoga"); ?>
 						</div>
 					</div>
 				</div>
@@ -77,12 +77,43 @@
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesWithLevelsFor("AntiGravity Pilates"); ?>
+							<?php echo getClassTimesWithLevelsFor("AntiGravity Aerial Pilates"); ?>
 						</div>
 					</div>
 				</div>
 			</div>
 			
+			<hr/>
+
+			<div class="row">
+				<div class="col-md-6">
+					<h3 class="pink">AntiGravity Flying Fitness</h3>
+					<p>
+						Ready to have some head over heels fun? This class is designed to make you feel as 
+						though you have run away with the circus! Do you think you will never be able to do 
+						a handstand or a flip?
+					</p>
+					<p> Then think again! The hammock acts as a personal coach to guide your every move, you will be successful. 
+						Dangle head-first like bats and flip weightlessly through the air.
+					</p>
+					<p class="gold">
+						<i><b>For moderate thrill seekers...!</b></i>
+					</p>
+				</div>
+				<div class="col-md-6">
+					<div class="row">
+						<div class="col-md-12">
+							<h3 class="pink">How much?</h3>
+							<p>This six week course is £55.00.</p>
+						</div>
+						<div class="col-md-12">
+							<h3 class="pink">When?</h3>
+							<?php echo getClassTimesWithLevelsFor("AntiGravity Yoga Flying Fitness"); ?>
+						</div>
+					</div>
+				</div>
+			</div>
+
 			<hr/>
 			
 			<div class="row">
@@ -114,7 +145,7 @@
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesWithLevelsFor("AntiGravity Yoga SloFlow Stretch"); ?>
+							<?php echo getClassTimesWithLevelsFor("AntiGravity Aerial Stretch"); ?>
 						</div>
 					</div>
 				</div>

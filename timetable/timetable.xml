@@ -129,7 +129,7 @@
 					<link>../gymnastics</link>
 				</class>
 				<class>
-					<title>AntiGravity Pilates</title>
+					<title>AntiGravity Aerial Pilates</title>
 					<booking>Pre-book</booking>
 					<time>18:30 - 19:30</time>
 					<level>All Levels</level>
@@ -143,7 +143,7 @@
 					<link>../aerial-yoga</link>
 				</class>
 				<class>
-					<title>AntiGravity Yoga SloFlow Stretch</title>
+					<title>AntiGravity Aerial Stretch</title>
 					<booking>Pre-book</booking>
 					<time>20:30 - 21:30</time>
 					<level>All Levels</level>
@@ -259,7 +259,7 @@
 		<studio value="1">
 			<classes>
 				<class>
-					<title>AntiGravity Yoga</title>
+					<title>AntiGravity Aerial Yoga</title>
 					<booking>Pre-book</booking>
 					<time>10:30 - 11:30</time>
 					<level>All Levels</level>
