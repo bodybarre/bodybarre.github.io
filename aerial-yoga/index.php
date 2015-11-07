@@ -10,7 +10,7 @@
 			
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">AntiGravity Yoga - All levels and suitable for the absolute beginner</h3>
+					<h3 class="pink">AntiGravity Aerial Yoga</h3>
 					<p>
 						AntiGravity&reg; Yoga is a fusion technique class that will challenge your strength, flexibility and 
 						endurance. 
@@ -38,7 +38,7 @@
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesFor("AntiGravity Yoga"); ?>
+							<?php echo getClassTimesWithLevelsFor("AntiGravity Yoga"); ?>
 						</div>
 					</div>
 				</div>
@@ -48,7 +48,7 @@
 			
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">AntiGravity Pilates - All levels and suitable for the absolute beginner</h3>
+					<h3 class="pink">AntiGravity Aerial Pilates</h3>
 					<p>
 						Pilates is a body conditioning routine that helps build flexibility and long, lean muscles, strength and 
 						endurance in the legs, abdominals, arms, hips, and back. It puts emphasis on spinal and pelvic 
@@ -77,7 +77,7 @@
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesFor("AntiGravity Pilates"); ?>
+							<?php echo getClassTimesWithLevelsFor("AntiGravity Pilates"); ?>
 						</div>
 					</div>
 				</div>
@@ -87,7 +87,7 @@
 			
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">AntiGravity SloFlow - All levels and suitable for the absolute beginner</h3>
+					<h3 class="pink">AntiGravity Aerial Stretch</h3>
 					<p>
 						Restore and renew your mind, body and spirit in the AntiGravity hammock. AntiGravity Yoga SloFlow 
 						is for those who love the benefits of zero-compression inversions and are interested in an AGY 
@@ -114,7 +114,7 @@
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesFor("AntiGravity Yoga SloFlow Stretch"); ?>
+							<?php echo getClassTimesWithLevelsFor("AntiGravity Yoga SloFlow Stretch"); ?>
 						</div>
 					</div>
 				</div>

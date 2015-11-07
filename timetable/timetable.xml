@@ -142,6 +142,13 @@
 					<level>All Levels</level>
 					<link>../aerial-yoga</link>
 				</class>
+				<class>
+					<title>AntiGravity Yoga SloFlow Stretch</title>
+					<booking>Pre-book</booking>
+					<time>20:30 - 21:30</time>
+					<level>All Levels</level>
+					<link>../aerial-yoga</link>
+				</class>
 			</classes>
 		</studio>
 		<studio value="2">
@@ -264,13 +271,6 @@
 					<time>11:30 - 12:30</time>
 					<level>All Levels</level>
 					<link>../aerial-silks</link>
-				</class>
-				<class>
-					<title>AntiGravity Yoga SloFlow Stretch</title>
-					<booking>Pre-book</booking>
-					<time>11:30 - 12:30</time>
-					<level>All Levels</level>
-					<link>../aerial-yoga</link>
 				</class>
 				<class>
 					<title>Kettlercise</title>
