@@ -12,9 +12,6 @@
 			<div class="col-md-6">
 				<h3 class="pink">Twerking Team - All levels and suitable for the absolute beginner</h3>
 				<p>
-					Thanks to Miley Cyrus we now all know exactly what Twerking is!
-				</p>
-				<p>
 					Twerking is a high-intensity cardio class that feels more like a dance club outing than a
 					gym session. We have taken the uncontrollable desire to shake our ass and mixed it with
 					some well known bum toning exercises aka squats!
