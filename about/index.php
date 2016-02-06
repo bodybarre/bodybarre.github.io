@@ -26,14 +26,48 @@
 					</div><!--/.nav-collapse -->
 				</div>
 			</nav>
-			
 			<div class="row">
 				<div class="col-md-12">
-					<div class="under-construction">
-						This page is currently under construction.
+					<div class="under-construction-about">
+						This page is still under construction.
 						<br/><br/>
-						<i><span class="gold">Check back soon!</span></i>
+						<i><span class="gold">In the mean time, here's our address!</span></i>
 					</div>
+				</div>
+			</div>
+			<hr/>
+			<div class="row">
+				<div class="col-xs-6">
+					<div id="map"></div>
+					<script src="https://maps.googleapis.com/maps/api/js"></script>
+					<script>
+						google.maps.event.addDomListener(window, 'load', function(){
+							var myLatlng = new google.maps.LatLng(53.484233, -2.236942);
+							var mapOptions = {
+								center: myLatlng,
+								zoom: 16,
+								mapTypeId: google.maps.MapTypeId.ROADMAP
+							}
+							var map = new google.maps.Map(document.getElementById('map'), mapOptions)
+							new google.maps.Marker({
+								 position: myLatlng,
+								 map: map,
+								 title: 'Bodybarre Manchester'
+							});
+						});
+					</script>
+				</div>
+				<div class="col-xs-6">
+					<p class="pink" style="font-size:17px;"><i>Find us in Manchester's vibrant Nothern Quarter!</i></p>
+					<br/>
+					<address>
+						<strong>Bodybarre Studio</strong><br/>
+						2nd Floor<br/>
+						35-37 Thomas Street<br/>
+						Northern Quarter<br/>
+						Manchester<br/>
+						M4 1NA<br/>
+					</address>
 				</div>
 			</div>
 			
