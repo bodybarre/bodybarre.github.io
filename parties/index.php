@@ -94,14 +94,19 @@
               </p>
               <p>
                 Bodybarre party packages include:
-                <p>
-                  <ul class="ticked-list">
-                    <li><span>2 hour private party</span></li>
-                    <li><span>Free gift for the main party girl</span></li>
-                    <li><span>All appropriate dance props</span></li>
-                    <li><span>Photo Opportunity so don’t forget your cameras</span></li>
-                  </ul>
-                </p>
+                <ul class="ticked-list">
+                  <li><span>2 hour private party</span></li>
+                  <li><span>Free gift for the main party girl</span></li>
+                  <li><span>All appropriate dance props</span></li>
+                  <li><span>Photo Opportunity so don’t forget your cameras</span></li>
+                </ul>
+              </p>
+              <p>
+                Extras available:
+                <ul class="ticked-list">
+                  <li><span>A professional pole or burlesque performance by your female party host</span></li>
+                  <li><span>A professional pole or striptease performance by Bodybarre's "Malerotic"</span></li>
+                </ul>
               </p>
 						</div>
 					</div>
