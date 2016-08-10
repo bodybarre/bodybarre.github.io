@@ -71,8 +71,18 @@
                 </address>
               </p>
               <p>
-                <b class="gold">Note:</b> The majority of Bodybarre parties can also be held in the comfort of your own home or hotel room.  Please contact us with your requirements.
+                <b class="gold">Note: </b> The majority of Bodybarre parties can also be held in the comfort of your own home or hotel room.  Please contact us with your requirements.
               </p>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-12">
+              <h3 class="pink">How to book?</h3>
+              <p><span class="gold"><b>1 -</b></span> Decide on your preferred time, venue, and date of your party and estimate how many guests may attend.</p>
+              <p><span class="gold"><b>2 -</b></span> Select the dance package you would like.</p>
+              <p><span class="gold"><b>3 -</b></span> Choose if you would like an optional extra pole performance then contact us for availability. We recommend booking at least 2 weeks in advance.</p>
+              <p><span class="gold"><b>4 -</b></span> <b>Email in:</b> karen@bodybarre.co.uk</p>
             </div>
           </div>
         </div>
@@ -126,19 +136,36 @@
 						</div>
 					</div>
 				</div>
+
+        <div class="col-md-6">
+					<div class="row">
+						<div class="col-md-12">
+							<h3 class="pink">What to wear?</h3>
+							<p>
+                The main rule here is that you feel comfortable. If you prefer please wear regular dance fitness clothes and footwear, your favourite jeans or even fancy dress. However it is best to wear clothes that you can move easily in. Bodybarre will provide all parties with appropriate props to ensure ultimate girlie fun!
+
+For the Pole Dancing package it is worth noting that the more bare skin -the better the pole grip; however please do cover up if you prefer as all moves are adaptable.
+
+For the Burlesque Striptease package please note there is no full nudity.
+For the Burlesque Can-Can package we will dress you in gorgeous garters and the most fabulous netted Can-Can skirts.
+Fancy an extra sexy strut? Bring your high heeled shoes!
+              </p>
+						</div>
+					</div>
+				</div>
 			</div>
 
 			<hr/>
 
       <div class="row">
         <div class="col-md-12">
-          <h2 class="pink">Choose one of the following themes...</h2>
+          <h2 class="pink">Choose one of the following packages...</h2>
         </div>
       </div>
 
       <div class="row">
         <div class="col-md-12">
-          <h3 class="pink">Pole Dancing Party</h3>
+          <h3 class="gold">Pole Dancing Party</h3>
           <p>
             You will begin with a warm up which will guide you through sensual floor moves to heat up your body.  Learn some spins, swings and static holds then piece them together with hair flicks, seductive struts and sexy body rolls to create a fantastic pole dance routine. It’s empowering, sexy and fun and best of all we show you how to work your sky scrapper heels to that of a tantalizing temptress!
 Take your Hen Party, Birthday Party or Girlie Night Out to new heights!
@@ -159,7 +186,7 @@ A sexy showcase!
 
       <div class="row">
         <div class="col-md-12">
-          <h3 class="pink">Burlesque Can-Can Party</h3>
+          <h3 class="gold">Burlesque Can-Can Party</h3>
           <p>
             Prepare to blush with all the cheek of the Can-Can as we peel away the layers in a frilly fun fashion. Packed full of all you expect from a Moulin Rouge dance with high kicks, turns, splits and of course our unique Bodybarre twist...anyone fancy a cartwheel?! A Showgirl party packed with va va voom, come and learn the secrets...
   A sassy showcase which is fabulous, flirty, and a little bit naughty.
@@ -180,7 +207,7 @@ A sexy showcase!
 
       <div class="row">
         <div class="col-md-12">
-          <h3 class="pink">Dirty Dancing Party</h3>
+          <h3 class="gold">Dirty Dancing Party</h3>
           <p>
             Come and have 'the time of your life' learning the moves to the songs from your favourite film Dirty Dancing!  Learn a routine which incorporates Salsa and the Cha-Cha-Cha in a true 'Baby' style.  Nobody sits in the corner, and everybody will have fun at this ultimate girls party.
 See our costs to book party optional extras and add Bodybarre's "Malerotic" dance performance to spice up your party with a touch of Johnny Castle! 
@@ -203,7 +230,7 @@ Our Thiller party package will build a routine to suit any dance level. No expe
 
       <div class="row">
         <div class="col-md-12">
-          <h3 class="pink">Hula Hoop Party</h3>
+          <h3 class="gold">Hula Hoop Party</h3>
           <p>
             It’s all in the thrust! Rewind your childhood and get into the groove as you whirl yourself giddy with our adult sized hoops. Learn basic Hula Hoop tricks alongside simple dance steps for which no experience is necessary. Have fun with the massaging rolls of the Hula Hoop and feel young again. We will link your new found skills to create a cutely choreographed hula hoop dance routine to display your inner playful goddess.
 A superb twist to your party, have a whirl of a time!
@@ -223,7 +250,7 @@ A superb twist to your party, have a whirl of a time!
 
       <div class="row">
         <div class="col-md-12">
-          <h3 class="pink">80’s Dance Party</h3>
+          <h3 class="gold">80’s Dance Party</h3>
           <p>
             Have your very own 80’s disco! Bring on the old skool because we are all 80’s cool at heart! It's time to party, learn some fun easy to follow feel good dance moves which combine sexy steps to body rolling rock outs! 2 hours of dancing fun as you shimmy to the fabulous sounds of the 80’s. Looking to have a ball? The parties right here...! Treat your guests to the cheesiest party in town!
           </p>
@@ -241,7 +268,7 @@ A superb twist to your party, have a whirl of a time!
 
       <div class="row">
         <div class="col-md-12">
-          <h3 class="pink">Aerial Yoga Party</h3>
+          <h3 class="gold">Aerial Yoga Party</h3>
           <p>
             Do you fancy slipping into something a little silky? Lets take the weight of your feet and turn you on your head as the silky hammock wraps around you and allows you to relax. Most of us have experienced Yoga on the floor but how about taking to the air? We will literally have you all flying through the studio. This session is exhilarating and relaxing. A perfect blend of giggles and ahhhhhhh!
           </p>
@@ -259,7 +286,7 @@ A superb twist to your party, have a whirl of a time!
 
       <div class="row">
         <div class="col-md-12">
-          <h3 class="pink">Kids Upside Down Party</h3>
+          <h3 class="gold">Kids Upside Down Party</h3>
           <p>
             Why should adults have all the fun? Our upside down playground is open to kids to come and fly, bounce, spin and giggle in. Suitable for all from age 4 upwards. We will take the kids on an aerial circus adventure. Flying in hammocks, spinning in aerial hoops, getting wrapped up in aerial silks and twisting and turning in the static trapeze. Our Upside Down world is a wonderful place to be, kids love it. Fearless fun!
           </p>
