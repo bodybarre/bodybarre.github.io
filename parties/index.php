@@ -101,11 +101,11 @@
                 Each party package is 2 hours long. Please contact us with your preferred time slot and date. Subject to availability.
               </p>
               <p>
-                  <p><b>Friday/Saturday: </b><span class="gold">11am - 1pm</span></p>
-                  <p><b>Friday/Saturday: </b><span class="gold">1pm - 3pm</span></p>
-                  <p><b>Friday/Saturday: </b><span class="gold">3pm - 5pm</span></p>
-                  <p><b>Friday/Saturday: </b><span class="gold">5pm - 7pm</span></p>
-                  <p><b>Friday/Saturday: </b><span class="gold">7pm - 9pm</span></p>
+                <p><b>Friday/Saturday: </b><span class="gold">11am - 1pm</span></p>
+                <p><b>Friday/Saturday: </b><span class="gold">1pm - 3pm</span></p>
+                <p><b>Friday/Saturday: </b><span class="gold">3pm - 5pm</span></p>
+                <p><b>Friday/Saturday: </b><span class="gold">5pm - 7pm</span></p>
+                <p><b>Friday/Saturday: </b><span class="gold">7pm - 9pm</span></p>
               </p>
 						</div>
 					</div>
