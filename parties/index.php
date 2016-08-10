@@ -102,7 +102,7 @@
                 </ul>
               </p>
               <p>
-                Extras available:
+                Extras available (£10.00 each):
                 <ul class="ticked-list">
                   <li><span>A professional pole or burlesque performance by your female party host</span></li>
                   <li><span>A professional pole or striptease performance by Bodybarre's "Malerotic"</span></li>
