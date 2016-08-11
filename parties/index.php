@@ -108,7 +108,7 @@
                   <li><span>2 hour private party</span></li>
                   <li><span>Free gift for the main party girl</span></li>
                   <li><span>All appropriate dance props</span></li>
-                  <li><span>Photo Opportunity so don’t forget your cameras</span></li>
+                  <li><span>Photo opportunities - don’t forget your cameras!</span></li>
                 </ul>
               </p>
               <p>
@@ -142,13 +142,15 @@
 						<div class="col-md-12">
 							<h3 class="pink">What to wear?</h3>
 							<p>
-                The main rule here is that you feel comfortable. If you prefer please wear regular dance fitness clothes and footwear, your favourite jeans or even fancy dress. However it is best to wear clothes that you can move easily in. Bodybarre will provide all parties with appropriate props to ensure ultimate girlie fun!
-
-For the Pole Dancing package it is worth noting that the more bare skin -the better the pole grip; however please do cover up if you prefer as all moves are adaptable.
-
-For the Burlesque Striptease package please note there is no full nudity.
-For the Burlesque Can-Can package we will dress you in gorgeous garters and the most fabulous netted Can-Can skirts.
-Fancy an extra sexy strut? Bring your high heeled shoes!
+                The main rule here is that you feel comfortable. If you prefer please wear regular dance fitness clothes and footwear,
+                your favourite jeans or even fancy dress. However it is best to wear clothes that you can move easily in.
+              </p>
+              <p>
+                Bodybarre will provide all parties with appropriate props to ensure ultimate girlie fun!
+                For the Pole Dancing package, it is worth noting that the more bare skin - the better the pole grip; however please do cover up if
+                you prefer as all moves are adaptable.
+                For the Burlesque Striptease package please note there is no full nudity. For the Burlesque Can-Can package, we will dress you in
+                gorgeous garters and the most fabulous netted Can-Can skirts. Fancy an extra sexy strut? Bring your high heeled shoes!
               </p>
 						</div>
 					</div>
