@@ -30,7 +30,7 @@
 
       <div class="row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="../images/pole_banner.png" alt="Pole Dance Banner"/>
+					<img class="img-responsive" src="../images/parties_banner.png" alt="Pole Dance Banner"/>
 				</div>
 			</div>
 
@@ -60,16 +60,28 @@
                 We host your Bodybarre party at the most beautiful venue "The Bodybarre Studio" situated in the heart of Central Manchester’s
                 hippest nightlife and a stones throw from the infamous Arndale Shopping Centre. 
               </p>
-              <p>
-                <address>
-                  <strong>Bodybarre Studio</strong></br>
-                  Second Floor</br>
-                  35-37 Thomas Street</br>
-                  Northern Quarter</br>
-                  Manchester</br>
-                  M4 1NA</br>
-                </address>
-              </p>
+              <div class="row">
+                <div class="col-md-6">
+                  <p>
+                    <address>
+                      <strong>Bodybarre Studio</strong></br>
+                      Second Floor</br>
+                      35-37 Thomas Street</br>
+                      Northern Quarter</br>
+                      Manchester</br>
+                      M4 1NA</br>
+                    </address>
+                  </p>
+                </div>
+                <div class="col-md-6">
+                  <div class="row">
+                  	<div class="col-md-12">
+                  		<img class="img-responsive" src="../images/parties_1.png"/>
+                      <br/>
+                  	</div>
+                  </div>
+                </div>
+              </div>
               <p>
                 <b class="gold">Note: </b> The majority of Bodybarre parties can also be held in the comfort of your own home or hotel room.  Please contact us with your requirements.
               </p>
@@ -83,6 +95,11 @@
               <p><span class="gold"><b>2 -</b></span> Select the dance package you would like.</p>
               <p><span class="gold"><b>3 -</b></span> Choose if you would like an optional extra pole performance then contact us for availability. We recommend booking at least 2 weeks in advance.</p>
               <p><span class="gold"><b>4 -</b></span> <b>Email in:</b> karen@bodybarre.co.uk</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+              <img class="img-responsive" src="../images/parties_2.png" />
             </div>
           </div>
         </div>
