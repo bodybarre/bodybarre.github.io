@@ -30,7 +30,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">How much?</h3>
-							<p>This three week introductory course costs £50.00.</p>
+							<p>This three week introductory course costs £55.00.</p>
 						</div>
 					</div>
 					<div class="row">
@@ -62,8 +62,8 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">How much?</h3>
-							<p>This six week course costs £55.00 for Bronze, Silver and Gold levels.</p>
-							<p>This six week course costs £70.00 for Platinum level.</p>
+							<p>This six week course costs £60.00 for Bronze, Silver and Gold levels.</p>
+							<p>This six week course costs £75.00 for Platinum level.</p>
 						</div>
 					</div>
 				</div>
@@ -102,7 +102,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">How much?</h3>
-							<p>This six week course costs £50.00.</p>
+							<p>This six week course costs £55.00.</p>
 						</div>
 					</div>
 					<div class="row">
@@ -134,7 +134,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">How much?</h3>
-							<p>This four week course costs £30.00.</p>
+							<p>This four week course costs £35.00.</p>
 						</div>
 					</div>
 					<div class="row">

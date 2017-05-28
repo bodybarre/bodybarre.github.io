@@ -53,7 +53,7 @@
 				</div>
 				<div class="col-md-6">
 					<h3 class="pink">How much?</h3>
-					<p>This four week course costs £30.00</p>
+					<p>This four week course costs £35.00</p>
 				</div>
 			</div>
 

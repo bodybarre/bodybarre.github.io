@@ -34,7 +34,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">How much?</h3>
-							<p>This six week course costs £55.00.</p>
+							<p>This six week course costs £60.00.</p>
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
@@ -73,7 +73,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">How much?</h3>
-							<p>This six week course is £55.00.</p>
+							<p>This six week course is £60.00.</p>
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
@@ -104,7 +104,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">How much?</h3>
-							<p>This six week course is £55.00.</p>
+							<p>This six week course is £60.00.</p>
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>
@@ -141,7 +141,7 @@
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="pink">How much?</h3>
-							<p>This six week course is £55.00.</p>
+							<p>This six week course is £60.00.</p>
 						</div>
 						<div class="col-md-12">
 							<h3 class="pink">When?</h3>

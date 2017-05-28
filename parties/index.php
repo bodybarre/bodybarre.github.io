@@ -312,6 +312,21 @@ A superb twist to your party, have a whirl of a time!
         </div>
       </div>
 
+			<div class="row">
+        <div class="col-md-12">
+          <h3 class="pink">CALLING ALL MUGGLES...</h3>
+          <p>
+						Harry Potter themed parties are now available at Bodybarre Studio - For kids and big kids!
+					</p>
+					<p>
+						Enchant your guests and bring out your magical side. Be Potter Fantastic and whiz around our wizarding world on your broomstick. Be spellbinding with some crafty wand skills...Play enchanting house games...
+					</p>
+					<p>
+						Have a wonderful wizarding party!
+          </p>
+        </div>
+      </div>
+
 <?php
 	include '../footer.php';
 ?>

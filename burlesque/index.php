@@ -79,7 +79,7 @@
 				</div>
 				<div class="col-md-6">
 					<h3 class="pink">How much?</h3>
-					<p>The four week burlesque course costs £30.00</p>
+					<p>The four week burlesque course costs £35.00</p>
 					<p>Prices vary for burlesque show. E-mail <span class="gold">karen@bodybarre.co.uk</span> to discuss your requirements.</p>
 				</div>
 			</div>
