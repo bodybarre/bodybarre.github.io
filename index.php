@@ -90,6 +90,11 @@
 					<a href="kids"><img class="img-responsive" src="images/kids.png"/></a>
 				</div>
 			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-3 margined-row">
+					<a href="ballet-barre"><img class="img-responsive" src="images/ballet_barre.png"/></a>
+				</div>
+			</div>
 			
 			<hr/>
 			
