@@ -30,7 +30,7 @@
 					<link>../pole</link>
 				</class>
 				<class>
-					<title>Super Gold Pole Sport</title>
+					<title>Gold Pole Sport</title>
 					<booking>Pre-Book</booking>
 					<time>20:30 - 21:30</time>
 					<level>Advanced Plus</level>
@@ -110,7 +110,7 @@
 				<class>
 					<title>Handstands</title>
 					<booking>Pre-Book</booking>
-					<time>18:15 - 19:30</time>
+					<time>18:15 - 19:00</time>
 					<level>All Levels</level>
 					<link>../handstands</link>
 				</class>
@@ -150,11 +150,11 @@
 					<link>../aerial-yoga</link>
 				</class>
 				<class>
-					<title>AntiGravity Aerial Stretch</title>
+					<title>Aerial Hoop</title>
 					<booking>Pre-book</booking>
 					<time>20:30 - 21:30</time>
 					<level>All Levels</level>
-					<link>../aerial-yoga</link>
+					<link>../aerial-hoop</link>
 				</class>
 			</classes>
 		</studio>
@@ -196,12 +196,6 @@
 					<link>../aerial-silks</link>
 				</class>
 				<class>
-					<title>Pole Fabric</title>
-					<booking>Pre-book</booking>
-					<time>17:45 - 18:30</time>
-					<level>All Levels</level>
-				</class>
-				<class>
 					<title>Static Trapeze</title>
 					<booking>Pre-book</booking>
 					<time>18:30 - 19:30</time>
@@ -209,7 +203,7 @@
 					<link>../trapeze</link>
 				</class>
 				<class>
-					<title>Hula Hoop</title>
+					<title>Stiletto Fit</title>
 					<booking>Pre-book</booking>
 					<time>19:30 - 20:15</time>
 					<level>All Levels</level>
@@ -236,12 +230,6 @@
 					<title>Splits Stretch</title>
 					<booking>Pre-book</booking>
 					<time>19:30 - 20:15</time>
-					<level>All Levels</level>
-				</class>
-				<class>
-					<title>Pole Splits</title>
-					<booking>Pre-book</booking>
-					<time>20:30 - 21:15</time>
 					<level>All Levels</level>
 				</class>
 			</classes>
@@ -272,13 +260,6 @@
 					<link>../aerial-yoga</link>
 				</class>
 				<class>
-					<title>Aerial Silks</title>
-					<booking>Pre-book</booking>
-					<time>11:30 - 12:30</time>
-					<level>All Levels</level>
-					<link>../aerial-silks</link>
-				</class>
-				<class>
 					<title>Kettlercise</title>
 					<booking>PAYGO £6</booking>
 					<time>12:30 - 13:15</time>
@@ -286,7 +267,7 @@
 					<link>../kettlercise</link>
 				</class>
 				<class>
-					<title>Jump Dance</title>
+					<title>Jump Fit</title>
 					<booking>PAYGO £5</booking>
 					<time>13:15 - 13:45</time>
 					<level>All Levels</level>
@@ -303,26 +284,12 @@
 					<time>15:45 - 16:45</time>
 					<level>All Levels</level>
 				</class>
-				<class>
-					<title>Aerial Hoop</title>
-					<booking>Pre-book</booking>
-					<time>17:30 - 18:30</time>
-					<level>All Levels</level>
-					<link>../aerial-hoop</link>
-				</class>
 			</classes>
 		</studio>
 		<studio value="2">
 			<classes>
 				<class>
-					<title>Kids Pole Development Squad</title>
-					<booking>Pre-book</booking>
-					<time>11:30 - 12:30</time>
-					<level>All Levels</level>
-					<link>../kids</link>
-				</class>
-				<class>
-					<title>Kids Aerial Circus</title>
+					<title>Kids Upside Down School</title>
 					<booking>Pre-book</booking>
 					<time>11:30 - 12:30</time>
 					<level>All Levels</level>
@@ -331,7 +298,7 @@
 				<class>
 					<title>Private Tuition</title>
 					<booking>Pre-book</booking>
-					<time>14:15 - 15:15</time>
+					<time>14:00 - 16:45</time>
 					<level>All Levels</level>
 				</class>
 			</classes>
