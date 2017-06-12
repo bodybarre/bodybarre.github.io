@@ -10,7 +10,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">Kids Aerial Circus - All levels, ages 4 to 15</h3>
+					<h3 class="pink">Kids Aerial Circus - All levels, ages 6 to 15</h3>
 					<p>
 						Kids Aerial Circus classes are a great way for kids to get fit, meet new people and
 						learn an interesting range of skills. Our classes are well-structured, with a clear
