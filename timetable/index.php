@@ -34,39 +34,8 @@
 				</div>
 			</div>
 
-			<div class="row">
-			<?php
-				$dayCounter = 0;
-				$xml = simplexml_load_file("timetable.xml") or die ("Unable to load webpage. Please contact karen@bodybarre.co.uk");
-				foreach($xml->day as $day) {
-					$dayCounter++;
-					if($dayCounter % 4 == 0) {
-						echo "</div>";
-						echo "<div class='row'>";
-					}
-					echo "<div class='col-md-4'>";
-					echo "<h2 class='gold'>".$day["value"]."</h2>";
-					foreach($day->studio as $studio) {
-						echo "<table class='table table-condensed table-bordered'>";
-						echo "<tr><td colspan='2'><h4>Studio #".$studio["value"]."</h4></td></tr>";
-						foreach($studio->classes->class as $class) {
-
-							$info = "";
-							if(isset($class->link)) {
-								$info = "<td><a href='".$class->link."'>".$class->title."</a><br><i>".$class->level."</i><br/><i>".$class->booking."</i></td>";
-							} else {
-								$info = "<td><span class='pink'>".$class->title."</span><br><i>".$class->level."</i><br/><i>".$class->booking."</i></td>";
-							}
-							echo "<tr>";
-							echo "<td class='pink'>".$class->time."</td>";
-							echo $info;
-							echo "</tr>";		
-						}
-						echo "</table>";
-					}
-					echo "</div>";
-				}
-			?>
+			<div class="row center">
+				<iframe src="https://calendar.google.com/calendar/b/1/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=400&amp;wkst=2&amp;bgcolor=%23000000&amp;src=bodybarretimetable%40gmail.com&amp;color=%23B1365F&amp;ctz=Europe%2FLondon" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
 			</div>
 <?php
 	include '../footer.php';
