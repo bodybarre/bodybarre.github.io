@@ -33,7 +33,7 @@
 			</div>
 
 			<div class="row margined-row">
-				<div class="col-xs-12 col-sm-4">
+				<div class="col-xs-12 col-sm-6">
 					<div class="thumbnail">
 						<img class="img-responsive" src="../images/kaz.jpg" alt="Karen Chaundy Photo">
 						<div class="caption">
@@ -65,7 +65,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-xs-12 col-sm-4">
+				<div class="col-xs-12 col-sm-6">
 					<div class="thumbnail">
 						<img class="img-responsive" src="../images/penny.jpg" alt="Penny Howarth Photo">
 						<div class="caption">
@@ -84,31 +84,6 @@
 								Penny’s aim is for every student to achieve something every lesson, no matter how big or
 								small. Penny feels students should be able to forget any stresses of everyday life and enjoy the
 								class, leaving the studio feeling empowered, self confident and happy.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="col-xs-12 col-sm-4">
-					<div class="thumbnail">
-						<img class="img-responsive" src="../images/cassie.jpg" alt="Cassie Bee Photo">
-						<div class="caption">
-							<h3 class="pink center">Cassie Bee</h3>
-							<i><h4 class="center gold">The sexy one!</h4></i>
-							<p>
-								Cassie brings a touch of super sassy sexy pole fun to Bodybarre, and teaches regular Lap Dance Workshops which always go down a storm!
-							</p>
-							<p>
-								Cassie loves to share her fitness knowledge, and makes each class fun whilst delivering safe,
-								effective sessions with an encouraging nature. She finds it hugely rewarding to watch her
-								students grow in confidence as their fitness goals become achievable.
-							</p>
-							<p>
-								Cassie understands the importance of being a student herself, and she regularly attends
-								instructor fitness courses, keeping her fitness knowledge current to ensure she delivers the
-								best classes for her students.
-							</p>
-							<p>
-								Passionate about fitness, Cassie enjoys working with clients who display the same level of enjoyment and love for fitness that she does.
 							</p>
 						</div>
 					</div>
