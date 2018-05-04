@@ -21,7 +21,7 @@
 							<li><a href="../training">Instructor Training</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="../blog">Blog</a></li>
+              <li><a href="../studio-hire">Studio Hire</a></li>
 							<li><a href="../contact">Contact</a></li>
 						</ul>
 					</div>
