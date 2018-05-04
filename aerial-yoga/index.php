@@ -9,176 +9,85 @@
 			</div>
 			
 			<div class="row">
-				<div class="col-md-6">
-					<h3 class="pink">AntiGravity Aerial Yoga</h3>
+				<div class="col-md-12">
+					<h3 class="pink">Aerial Yoga</h3>
 					<p>
-						AntiGravity&reg; Yoga is a fusion technique class that will challenge your strength, flexibility and 
-						endurance. 
+						Aerial Yoga is a fusion technique class that will challenge your strength, flexibility and endurance.
 					</p>
 					<p>
-						It utilizes aspects of traditional yoga, Pilates, calisthenics, dance, and gymnastics. 
-						AntiGravity&reg; Yoga is designed to increase one’s overall health and physical agility while having fun and 
-						creating beauty. Learn to flip, invert, fly while getting the best workout.
+						It utilises aspects of traditional yoga, Pilates, calisthenics, dance, and gymnastics. Aerial Yoga is designed to increase one’s overall health and physical agility while having fun and creating beauty. Learn to flip, invert, fly while getting the best workout.
 					</p>
 					<p>
-						AntiGravity&reg; Yoga improves flexibility, balance and blood flow. It also decompresses your spine and 
-						joints making you more mobile. It strengthens supporting muscles making it a great workout for injury 
-						prevention. It’s also particularly beneficial if you suffer from back pain, as it stretches out the 
-						vertebrae.
+						Aerial Yoga improves flexibility, balance and blood flow. It also decompresses your spine and joints making you more mobile. It strengthens supporting muscles making it a great workout for injury prevention. It’s also particularly beneficial if you suffer from back pain, as it stretches out the vertebrae.
 					</p>
 					<p class="gold">
 						<i><b>A class where you can literally fly above the floor!</b></i>
 					</p>
 				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-12">
-							<h3 class="pink">How much?</h3>
-							<p>This six week course costs £60.00.</p>
-						</div>
-						<div class="col-md-12">
-							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesWithLevelsFor("AntiGravity Aerial Yoga"); ?>
-						</div>
-					</div>
-				</div>
 			</div>
 
 			<hr/>
 			
 			<div class="row">
-				<div class="col-md-6">
-					<h3 class="pink">AntiGravity Aerial Pilates</h3>
+				<div class="col-md-12">
+					<h3 class="pink">Aerial Pilates</h3>
 					<p>
-						Pilates is a body conditioning routine that helps build flexibility and long, lean muscles, strength and 
-						endurance in the legs, abdominals, arms, hips, and back. It puts emphasis on spinal and pelvic 
-						alignment, breathing to relieve stress and allow adequate oxygen flow to muscles, developing a 
-						strong core or centre (tones abdominals while strengthening the back), and improving coordination 
-						and balance. 
+						Aerial Pilates is a body conditioning routine that helps build flexibility and long, lean muscles, strength and endurance in the legs, abdominals, arms, hips, and back. It puts emphasis on spinal and pelvic alignment, breathing to relieve stress and allow adequate oxygen flow to muscles, developing a strong core or centre (tones abdominals while strengthening the back), and improving coordination and balance.
 					</p>
 					<p>
-						Pilates' flexible system allows for different exercises to be modified in range of difficulty 
-						from beginner to advanced. Intensity can be increased over time as the body conditions and adapts to 
-						the exercises.
-					</p>
-					<p>
-						No muscle group is under or over trained. It enhances core strength and brings 
-						increased reach, flexibility, sure-footedness and agility.
+						Pilates' flexible system allows for different exercises to be modified in range of difficulty from beginner to advanced. Intensity can be increased over time as the body conditions and adapts to the exercises.
+						No muscle group is under or over trained. It enhances core strength and brings increased reach, flexibility, sure-footedness and agility.
 					</p>
 					<p class="gold">
 						<i><b>Hang out with us and lead yourself to greater health!</b></i>
 					</p>
 				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-12">
-							<h3 class="pink">How much?</h3>
-							<p>This six week course is £60.00.</p>
-						</div>
-						<div class="col-md-12">
-							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesWithLevelsFor("AntiGravity Aerial Pilates"); ?>
-						</div>
-					</div>
-				</div>
 			</div>
 			
 			<hr/>
-
-			<div class="row">
-				<div class="col-md-6">
-					<h3 class="pink">AntiGravity Flying Fitness</h3>
-					<p>
-						Ready to have some head over heels fun? This class is designed to make you feel as 
-						though you have run away with the circus! Do you think you will never be able to do 
-						a handstand or a flip?
-					</p>
-					<p> Then think again! The hammock acts as a personal coach to guide your every move, you will be successful. 
-						Dangle head-first like bats and flip weightlessly through the air.
-					</p>
-					<p class="gold">
-						<i><b>For moderate thrill seekers...!</b></i>
-					</p>
-				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-12">
-							<h3 class="pink">How much?</h3>
-							<p>This six week course is £60.00.</p>
-						</div>
-						<div class="col-md-12">
-							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesWithLevelsFor("AntiGravity Yoga Flying Fitness"); ?>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<hr/>
-			
-			<div class="row">
-				<div class="col-md-6">
-					<h3 class="pink">AntiGravity Aerial Stretch</h3>
-					<p>
-						Restore and renew your mind, body and spirit in the AntiGravity hammock. AntiGravity Yoga SloFlow 
-						is for those who love the benefits of zero-compression inversions and are interested in an AGY 
-						modality that is more yogic and less fitness oriented.
-					</p>
-					<p>
-						This suspended yoga class incorporates levitating meditations, zero-compression inversions, supported sun salutations, isometric style 
-						muscular contractions, flexibility and balance conditioning, and a floating Savasana. The utilization of 
-						upside down poses help release the stress.
-					</p>
-					<p>
-						Let yourself completely relax in the inverted poses, at 
-						complete peace dangling upside down in the hammock.
-					</p>
-					<p class="gold">
-						<i><b>Namaste.</b></i>
-					</p>
-				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-12">
-							<h3 class="pink">How much?</h3>
-							<p>This six week course is £60.00.</p>
-						</div>
-						<div class="col-md-12">
-							<h3 class="pink">When?</h3>
-							<?php echo getClassTimesWithLevelsFor("AntiGravity Aerial Stretch"); ?>
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<hr/>
-
-			<div class="row">
-				<div class="col-md-6">
-					<h3 class="pink">Exercise Benefits</h3>
-					<ul class="ticked-list">
-						<li><span>Improve fitness in a fun an intriguing way</span></li>
-						<li><span>Improve strength and muscle tone</span></li>
-						<li><span>Complete challenging inverted Yoga positions without back and neck compressions</span></li>
-						<li><span>Maintain Yoga positions longer with proper alignment</span></li>
-						<li><span>Relieve compressed joints and realign the spine</span></li>
-					</ul>
-				</div>
-				<div class="col-md-6">
-					<h3 class="pink">What to wear?</h3>
-					<p>
-						Please remove all jewellery. Please do not wear any clothing with buckles or zippers (anything that can snag the hammocks).
-						For better comfort when using the hammocks, please wear tops with short sleeves; no vests. 
-						Please do not wear clothes that are slippery; cotton is best! Please do not wear shoes – socks only!
-						A good sports bra is recommended, as you will spend time upside down.
-					</p>
-				</div>
-			</div>
 
 			<div class="row">
 				<div class="col-md-12">
-					<h3 class="pink">How to book?</h3>
-					<p>Book in advance only; limited places due to limited hammocks.</p>
+					<h3 class="pink">Antenatal Aerial Yoga</h3>
+					<p>
+						A unique antenatal class! Using the aerial hammock, fit ball, and yoga principles. This exercise program offers moderations for the changing needs of your pregnancy, catering for each trimester.
+					</p>
+					<p>
+						Enjoy feeling lighter as the aerial hammock supports your body weight, allowing you to relax into stretches, and feel supported as perform gentle muscle toning  and core stability exercise. Smooth away the aches and find yourself leaving class feeling relaxed.
+					</p>
+					<p class="gold">
+						<i><b>Pregnancy class with a unique twist!</b></i>
+					</p>
+				</div>
+			</div>
+
+			<hr/>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<h3 class="pink">Yoga Balance</h3>
+					<p>
+						A ground-based, mat work class that blends Yoga, Tai Chi and Pilates. A beautiful flowing workout set to music with carefully structured series of moves, poses and stretches. A typical class starts with a Tai-Chi warm-up followed by the traditional Yoga Sun Salutations. We then move into a standing section to strengthen the legs and then find balance.
+					</p>
+					<p>
+						The journey continues to move through the body as the focus turns to gaining greater flexibility in the hips, hamstrings and back. And of course…there is core work! This class is great for those wanting to improve strength and flexibility.
+					</p>
+					<p class="gold">
+						<i><b>Each session will leave you feeling centred and calm.</b></i>
+					</p>
+				</div>
+			</div>
+
+			<hr/>
+
+			<div class="row">
+				<div class="col-md-6">
+				<h3 class="pink">When are these classes?</h3>
+					<p>Please see our <a href="../timetable">timetable</a> for the latest class listings.</p>
+				</div>
+				<div class="col-md-6">
+				<h3 class="pink">How to book?</h3>
+					<p>Book in advance only; limited places due to limited poles.</p>
 					<p>To check availability and to book a place, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
 				</div>
 			</div>
