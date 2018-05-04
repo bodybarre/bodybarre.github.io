@@ -8,9 +8,10 @@
 					<img class="img-responsive" src="../images/trapeze_banner.png" alt="Static Trapeze Banner"/>
 				</div>
 			</div>
+			
 			<div class="row">
-				<div class="col-md-6">
-					<h3 class="pink">Six Week Course - All levels and suitable for the absolute beginner</h3>
+				<div class="col-md-12">
+					<h3 class="pink">Static Trapeze</h3>
 					<p>
 						FLY - swing, spin and dance on the low-flying trapeze.<br/>
 						FIT - create strength training for every muscle group.<br/>
@@ -20,58 +21,45 @@
 						Static Trapeze class is designed to keep you motivated and give you an amazingly thorough full body workout.
 					</p>
 					<p>
-						Climbing, inverting, rolling and turning every which way on this apparatus, you will
-						learn how to move from different positions with grace and ease while gaining
-						strength and control. On the trapeze you will learn to use the bar and ropes to pose,
-						invert, balance and drop into thrilling positions.
+						Climbing, inverting, rolling and turning every which way on this apparatus, you will learn how to move from different positions with grace and ease while gaining strength and control. On the trapeze you will learn to use the bar and ropes to pose, invert, balance and drop into thrilling positions.
 					</p>
 					<p>
-						Discover your centre of gravity in many different positions as you build shapes in the
-						air, turning them inside out and upside down in poses that highlight both strength
-						and flexibility.
+						Discover your centre of gravity in many different positions as you build shapes in the air, turning them inside out and upside down in poses that highlight both strength and flexibility.
 					</p>
 					<p class="gold">
 						<i><b>Let's get off the ground!</b></i>
 					</p>
 				</div>
-				<div class="col-md-6">
-					<div class="row">
-						<div class="col-md-12">
-							<h3 class="pink">Exercise Benefits</h3>
-							<ul class="ticked-list">
-								<li><span>Increase flexibility and strength</span></li>
-								<li><span>Full body workout</span></li>
-								<li><span>Strengthen and tone your core muscles, upper body and legs</span></li>
-								<li><span>Improved co-ordination and stamina</span></li>
-								<li><span>Great stomach muscle tone</span></li>
-							</ul>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<h3 class="pink">What to wear?</h3>
-							<p>
-								Tight fitting clothing such as a t-shirt and leggings are recommended for safety and comfort, so clothing does not ride up.
-							</p>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-md-12">
-							<h3 class="pink">When?</h3>
-							<p><b>Thursday</b>: <span class="gold">18:30 - 19:30</span></p>
-						</div>
-					</div>
+			</div>
+			
+			<hr/>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<h3 class="pink">Aerial Circus Choreography</h3>
+					<p>
+						Using a variety of aerial equipment, such as Aerial Hoop, Aerial Silks, Static Trapeze, Aerial Hammock, and Aerial Cube - on static and spinning mode! We will announce which equipment we will be using at least two weeks before the course starts, you should have a minimum of three months experience in the chosen discipline. 
+					</p>
+					<p>
+						Develop combinations to build aerial routines to music. Now is your chance to feel like a circus performer as you escape to a world of dancing in the air. Cue the music, spotlights on...
+					</p>
+					<p class="gold">
+						<i><b>Some lovely dancing in the air!</b></i>
+					</p>
 				</div>
 			</div>
-			<div class="row margined-row">
+			
+			<hr/>
+
+			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">How to book?</h3>
-					<p>Book in advance only; essential to secure your place.</p>
-					<p>To check availability and to book a place, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
+				<h3 class="pink">When are these classes?</h3>
+					<p>Please see our <a href="../timetable">timetable</a> for the latest class listings.</p>
 				</div>
 				<div class="col-md-6">
-					<h3 class="pink">How much?</h3>
-					<p>This six week course costs £60.00</p>
+				<h3 class="pink">How to book?</h3>
+					<p>Book in advance only; limited places due to limited equipment.</p>
+					<p>To check availability and to book a place, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
 				</div>
 			</div>
 

@@ -54,7 +54,7 @@
 				</div>
 				<div class="col-md-6">
 				<h3 class="pink">How to book?</h3>
-					<p>Book in advance only; limited places due to limited poles.</p>
+					<p>Book in advance only; limited places due to limited equipment.</p>
 					<p>To check availability and to book a place, e-mail <span class="gold">karen@bodybarre.co.uk</span></p>
 				</div>
 			</div>
