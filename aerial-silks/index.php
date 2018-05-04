@@ -4,7 +4,7 @@
 ?>
 			<div class="hidden-xs row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="../images/silks_banner.png" alt="Yoga Banner"/>
+					<img class="img-responsive" src="../images/silks_banner.png" alt="Silks Banner"/>
 				</div>
 			</div>
 			

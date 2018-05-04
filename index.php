@@ -84,7 +84,7 @@
 					<a href="stretching"><img class="img-responsive" src="images/stretching.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="kettlercise"><img class="img-responsive" src="images/kettlercise.png"/></a>
+					<a href="kettlebells"><img class="img-responsive" src="images/kettlebells.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
 					<a href="kids"><img class="img-responsive" src="images/kids.png"/></a>

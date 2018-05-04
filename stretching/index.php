@@ -5,7 +5,7 @@
 			
 			<div class="hidden-xs row">
 				<div class="col-md-12">
-					<img class="img-responsive" src="../images/stretching_banner.png" alt="Burlesque Banner"/>
+					<img class="img-responsive" src="../images/stretching_banner.png" alt="Stretching Banner"/>
 				</div>
 			</div>
 
