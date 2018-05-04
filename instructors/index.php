@@ -33,57 +33,38 @@
 			</div>
 
 			<div class="row margined-row">
-				<div class="col-xs-12 col-sm-6">
+				<div class="col-xs-12 col-sm-4">
 					<div class="thumbnail">
-						<img class="img-responsive" src="../images/kaz.jpg" alt="Karen Chaundy Photo">
+						<img class="img-responsive" src="../images/kaz.jpg" alt="Karen Photo">
 						<div class="caption">
-							<h3 class="pink center">Karen Chaundy</h3>
+							<h3 class="pink center">Karen</h3>
 							<i><h4 class="center gold">The strong one!</h4></i>
 							<p>
-								Karen is the founder and inspiration behind Bodybarre. Karen has immersed herself in the
-								world of fitness and dance all her life starting with gymnastics at 2 years old.  As a professional
-								dancer her career highlights include performing within the Millennium Dome Central Arena
-								Show in London.  Karen has choreographed and performed Burlesque and Pole Dance shows
-								for TV, Stage and corporate and celebratory events.
-							</p>
-							<p>
-								Karen has a full knowledge of the fitness industry and has qualifications as a YMCA gym
-								instructor - Level 2.  She was handpicked to teach ‘New York City Ballet Workout’ as well as
-								‘Nike Rockstar Workouts’; her involvement in these different dance styles has inspired her to
-								find new ways to keep her fitness knowledge current.  Karen was one of the UK's first
-								‘AntiGravity&reg; Aerial Yoga’ and ‘AntiGravity&reg; Aerial Pilates’ qualified Instructors leading
-								AntiGravity&reg; Fitness classes at Bodybarre.
-							</p>
-							<p>
-								Karen is a Master Trainer for the ‘XPert’ Pole Instructor Training programs, a role that she fulfills across Europe.
-							</p>
-							<p>
-								Her Pole Dancing performance career reached its pinnacle as she successfully represented the
-								UK at the World Pole Dance Championships. Known for her strong and unique pole dance style
-								she has captivated audiences worldwide and delivers pole classes across the UK and the world.
+								With a gymnastics background, Karen loves all things athletic, acrobatic and high energy. A world class pole dancer who if often found upside down. She loves training handstands and shaking her bum! She will push you to be the best you can be. Theres no messing with this one - its straight down to business and lets take on the challenge. You will be motivated to bring 110% effort, to be the best version of you.
 							</p>
 						</div>
 					</div>
 				</div>
-				<div class="col-xs-12 col-sm-6">
+				<div class="col-xs-12 col-sm-4">
 					<div class="thumbnail">
-						<img class="img-responsive" src="../images/penny.jpg" alt="Penny Howarth Photo">
+						<img class="img-responsive" src="../images/penny.jpg" alt="Penny Photo">
 						<div class="caption">
-							<h3 class="pink center">Penny Howarth</h3>
+							<h3 class="pink center">Penny</h3>
 							<i><h4 class="center gold">The bendy one!</h4></i>
 							<p>
-								Penny competes at a professional level in pole dance competitions and holds many pole titles.
-								Penny has worked in the pole dance industry since 2007 but has been dancing since the age of
-								4! Penny’s training includes many dance disciplines from ballet to tap. Penny’s favourite
-								pole moves are Jade, Star Gazer, Embrace and Flying Ballerina.
+								Penny is super friendly and will always teach with a giggle! Just because she is nice, doesn't mean she won't push-you-to-push-past the pain barrier! A background in ballet, Penny has a graceful, and super flexible performance style.
 							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-sm-4">
+					<div class="thumbnail">
+						<img class="img-responsive" src="../images/flo.jpg" alt="Flo Photo">
+						<div class="caption">
+							<h3 class="pink center">Flo</h3>
+							<i><h4 class="center gold">The sassy one!</h4></i>
 							<p>
-								Penny’s pole influences are the ex-gymnasts who have made pole dance more acrobatic and gravity defying.
-							</p>
-							<p>
-								Penny’s aim is for every student to achieve something every lesson, no matter how big or
-								small. Penny feels students should be able to forget any stresses of everyday life and enjoy the
-								class, leaving the studio feeling empowered, self confident and happy.
+								Flo will give you great support on your fitness journey, she gives great teaching tips and will certainly help you reach your goals. She is lovely - but, she will ensure you reach your fitness goals be there blood sweat and tears! Flo has a sassy performance style and a fun sophisticated teaching manner.
 							</p>
 						</div>
 					</div>

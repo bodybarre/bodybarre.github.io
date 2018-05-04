@@ -314,7 +314,7 @@ A superb twist to your party, have a whirl of a time!
 
 			<div class="row">
         <div class="col-md-12">
-          <h3 class="pink">CALLING ALL MUGGLES...</h3>
+          <h3 class="pink">Harry Potter</h3>
           <p>
 						Harry Potter themed parties are now available at Bodybarre Studio - For kids and big kids!
 					</p>
