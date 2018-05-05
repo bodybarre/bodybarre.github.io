@@ -5,7 +5,7 @@
 
 		<div class="hidden-xs row">
 			<div class="col-md-12">
-				<img class="img-responsive" src="../images/hulahooping_banner.png"/>
+				<img class="img-responsive" src="../images/hula_hooping_banner.png"/>
 			</div>
 		</div>
 
