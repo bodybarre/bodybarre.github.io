@@ -16,7 +16,7 @@
 			
 			<div class="row">
 				<div class="col-md-offset-4 col-md-4 margined-row">
-					<a href="http://www.bodybarre.co.uk"><img class="img-responsive" src="images/logo.png" alt="Bodybarre Logo"/></a>
+					<a href="http://bodybarre.co.uk"><img class="img-responsive" src="images/logo.png" alt="Bodybarre Logo"/></a>
 				</div>
 			</div>
 			
