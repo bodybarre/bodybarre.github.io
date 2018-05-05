@@ -36,10 +36,10 @@
 							<li><a href="timetable">Timetable</a></li>
 							<li><a href="parties">Parties</a></li>
 							<li><a href="instructors">Instructors</a></li>
-							<li><a href="training">Instructor Training</a></li>
+							<li><a href="corporate-events">Corporate Events</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
-							<li><a href="blog">Blog</a></li>
+							<li><a href="studio-hire">Studio Hire</a></li>
 							<li><a href="contact">Contact</a></li>
 						</ul>
 					</div>
@@ -127,6 +127,7 @@
 					<span style="font-size:12px">Copyright &copy; Bodybarre <?php echo date("Y"); ?></span>
 				</div>
 				<div class="col-xs-6 right">
+					<a href="http://www.instagram.com/bodybarrekaz"><img src="images/instagram.png"/></a>
 					<a href="http://www.twitter.com/BodybarreUK"><img src="images/twitter.png"/></a>
 					<a href="http://www.facebook.com/bodybarre"><img src="images/facebook.png"/></a>
 					<a href="http://www.youtube.com/user/karenBODYBARRE"><img src="images/youtube.png"/></a>

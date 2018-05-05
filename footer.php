@@ -5,6 +5,7 @@
 					 Copyright &copy; Bodybarre <?php echo date("Y"); ?>
 				</div>
 				<div class="col-xs-6 right">
+					<a href="http://www.instagram.com/bodybarrekaz"><img src="../images/instagram.png"/></a>
 					<a href="http://www.twitter.com/BodybarreUK"><img src="../images/twitter.png"/></a>
 					<a href="http://www.facebook.com/bodybarre"><img src="../images/facebook.png"/></a>
 					<a href="http://www.youtube.com/user/karenBODYBARRE"><img src="../images/youtube.png"/></a>

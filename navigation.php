@@ -14,7 +14,7 @@
 							<li><a href="../timetable">Timetable</a></li>
 							<li><a href="../parties">Parties</a></li>
 							<li><a href="../instructors">Instructors</a></li>
-							<li><a href="../training">Instructor Training</a></li>
+							<li><a href="../corporate-events">Corporate Events</a></li>
 						</ul>
 						<ul class="nav navbar-nav navbar-right">
 							<li><a href="../studio-hire">Studio Hire</a></li>
