@@ -83,7 +83,7 @@
 
 		<div class="row">
 			<div class="col-md-12">
-				<h3 class="pink">Private Tuition</h3>
+				<h3 class="pink">Group Tuition</h3>
 				<p>
 					<b>
 						Want a fun session to try with your friends?<br/>
