@@ -49,7 +49,7 @@
 						So lets focus on strengthening and toning your core and abdominal muscles. Grab a Kettlebell, a Skateboard and anything else that we will prepare for you, and go to work! 
 					</p>
 					<p>
-						We will help you fire up your core…whatever your 100% looks like - give it. Burn calories and reap major health benefits!
+						We will help you fire up your core... whatever your 100% looks like - give it. Burn calories and reap major health benefits!
 					</p>
 					<p class="gold">
 						<i><b>Mission possible</b></i>

@@ -113,7 +113,7 @@
 						Email us and get your quote today!
 					</p>
 					<p>
-						karen@bodybarre.co.uk
+						<span class="gold">karen@bodybarre.co.uk</span>
 					</p>
 				</div>
 			</div>

@@ -70,7 +70,7 @@
 						A ground-based, mat work class that blends Yoga, Tai Chi and Pilates. A beautiful flowing workout set to music with carefully structured series of moves, poses and stretches. A typical class starts with a Tai-Chi warm-up followed by the traditional Yoga Sun Salutations. We then move into a standing section to strengthen the legs and then find balance.
 					</p>
 					<p>
-						The journey continues to move through the body as the focus turns to gaining greater flexibility in the hips, hamstrings and back. And of course…there is core work! This class is great for those wanting to improve strength and flexibility.
+						The journey continues to move through the body as the focus turns to gaining greater flexibility in the hips, hamstrings and back. And of course... there is core work! This class is great for those wanting to improve strength and flexibility.
 					</p>
 					<p class="gold">
 						<i><b>Each session will leave you feeling centred and calm.</b></i>

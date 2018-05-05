@@ -73,7 +73,7 @@
 					It is now time to learn a super sassy dance routine which involves floor work only - no standing up, just floor surf in the hottest dance style ever. Is it a workout? Hell yeah - you will be working your legs, bum and tum like never before, you will feel the burn!
 				</p>
 				<p class="gold">
-					<i><b>Got bad ass? Get bad ass…dance like a stripper!</b></i>
+					<i><b>Got bad ass? Get bad ass... dance like a stripper!</b></i>
 				</p>
 			</div>
 		</div>

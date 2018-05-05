@@ -94,7 +94,7 @@
               <p><span class="gold"><b>1 -</b></span> Decide on your preferred time, venue, and date of your party and estimate how many guests may attend.</p>
               <p><span class="gold"><b>2 -</b></span> Select the dance package you would like.</p>
               <p><span class="gold"><b>3 -</b></span> Choose if you would like an optional extra pole performance then contact us for availability. We recommend booking at least 2 weeks in advance.</p>
-              <p><span class="gold"><b>4 -</b></span> <b>Email in:</b> karen@bodybarre.co.uk</p>
+              <p><span class="gold"><b>4 -</b></span> <b>Email in:</b> <span class="gold">karen@bodybarre.co.uk</span></p>
             </div>
           </div>
           <div class="row">
@@ -298,7 +298,7 @@ A superb twist to your party, have a whirl of a time!
         <div class="col-md-12">
           <h3 class="pink">Aerial Circus Party</h3>
           <p>
-            Come and run away to the circus! We want you to feel like the star of the show. Drum roll please…roll up roll up and get your thrill with some super circus skills. We will introduce you to an upside down playground – Aerial Hoop, Aerial Silks and Static Trapeze. An exciting world of aerial arts in which we will ‘clown’ around in! You can be an absolute beginner, we just want to make sure you experience all the fun of the spectacular big top with lots of laughter. Big smiles and pointed toes!
+            Come and run away to the circus! We want you to feel like the star of the show. Drum roll please... roll up roll up and get your thrill with some super circus skills. We will introduce you to an upside down playground – Aerial Hoop, Aerial Silks and Static Trapeze. An exciting world of aerial arts in which we will ‘clown’ around in! You can be an absolute beginner, we just want to make sure you experience all the fun of the spectacular big top with lots of laughter. Big smiles and pointed toes!
           </p>
         </div>
       </div>

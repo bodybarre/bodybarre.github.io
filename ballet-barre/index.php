@@ -22,7 +22,7 @@
 						We will whip you into shape with this vigorous calorie burning barre, using techniques from Pilates, Yoga and Ballet, plus there’s a few hip thrusts too!
 					</p>
 					<p class="gold">
-						<i><b>Cue long, lean muscles…</b></i>
+						<i><b>Cue long, lean muscles...</b></i>
 					</p>
 				</div>
 			</div>
@@ -33,7 +33,7 @@
 				<div class="col-md-12">
 					<h3 class="pink">Contemporary Dance</h3>
 					<p>
-						We love a spot of dancing at Bodybarre. There is a beautiful marriage when we meet music - an escape, an energy… Come and explore the grace and strength of this unique dance style. Learn an uplifting dance routine to music which will reward you with some fantastic cardiovascular fitness! Simply move. Enjoy the freedom of expression.
+						We love a spot of dancing at Bodybarre. There is a beautiful marriage when we meet music - an escape, an energy... Come and explore the grace and strength of this unique dance style. Learn an uplifting dance routine to music which will reward you with some fantastic cardiovascular fitness! Simply move. Enjoy the freedom of expression.
 					</p>
 					<p>
 						Lose yourself in the world of dance.

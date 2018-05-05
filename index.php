@@ -94,6 +94,15 @@
 				<div class="col-xs-12 col-sm-3 margined-row">
 					<a href="ballet-barre"><img class="img-responsive" src="images/ballet_barre.png"/></a>
 				</div>
+				<div class="col-xs-12 col-sm-3 margined-row">
+					<a href="hula-hooping"><img class="img-responsive" src="images/hulahooping.png"/></a>
+				</div>
+				<div class="col-xs-12 col-sm-3 margined-row">
+					<a href="trampoline-fit"><img class="img-responsive" src="images/trampoline_fit.png"/></a>
+				</div>
+				<div class="col-xs-12 col-sm-3 margined-row">
+					<a href="ballet-barre"><img class="img-responsive" src="images/ballet_barre.png"/></a>
+				</div>
 			</div>
 
 			<hr/>

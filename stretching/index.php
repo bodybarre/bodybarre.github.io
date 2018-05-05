@@ -22,7 +22,7 @@
 						Options to cater to each individual, we can make things more challenging and easier for you. Let's smash some bendy goals! Make sure you wear some comfy warm clothes for this class, and make sure you can move easily in your chosen outfit! 
 					</p>
 					<p class="gold">
-						<i><b>Got splits? Get splits…the Can-Can just might become your favourite dance.</b></i>
+						<i><b>Got splits? Get splits... the Can-Can just might become your favourite dance.</b></i>
 					</p>
 				</div>
 			</div>

@@ -20,7 +20,7 @@
 					</p>
 					<p>
 						You will develop aerial sequences moving towards holding yourself up for minutes at a time! class with a unique twist!
-						We have beginners only and all levels classes, come and play…
+						We have beginners only and all levels classes, come and play...
 					</p>
 					<p class="gold">
 						<i><b>Feel like a circus superstar!</b></i>

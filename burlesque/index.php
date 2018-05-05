@@ -30,13 +30,13 @@
 				<div class="col-md-12">
 					<h3 class="pink">Stiletto Fit</h3>
 					<p>
-					Yanis Marshall anyone? Yes? No? Never mind - we’ve got it covered! Take to the dance floor with some of the coolest hip bumps, chest rolls, booty bounces and leg kicks…WOW you are going to feel like a backing dancer for your favourite singer!
+					Yanis Marshall anyone? Yes? No? Never mind - we’ve got it covered! Take to the dance floor with some of the coolest hip bumps, chest rolls, booty bounces and leg kicks... WOW you are going to feel like a backing dancer for your favourite singer!
 					</p>
 					<p>
 						Lose yourself in the music and take a moment to feel fantastic as you dance yourself fit. Once again we will raise your pulse with an easy to follow dance warm up and nip and tuck with a toning and strength section. Then the shoes are on and we are ready to learn the wild routine! Cue music, we are ready to rock out a sexy roar!
 					</p>
 					<p class="gold">
-						<i><b>Got moves? Get moves…make your shimmy a sexy shimmy!</b></i>
+						<i><b>Got moves? Get moves... make your shimmy a sexy shimmy!</b></i>
 					</p>
 				</div>
 			</div>
