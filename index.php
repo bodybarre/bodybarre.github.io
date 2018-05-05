@@ -101,7 +101,7 @@
 					<a href="trampoline-fit"><img class="img-responsive" src="images/trampoline_fit.png"/></a>
 				</div>
 				<div class="col-xs-12 col-sm-3 margined-row">
-					<a href="ballet-barre"><img class="img-responsive" src="images/ballet_barre.png"/></a>
+					<a href="personal-training"><img class="img-responsive" src="images/personal_training.png"/></a>
 				</div>
 			</div>
 
