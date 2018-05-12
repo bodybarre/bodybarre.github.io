@@ -117,7 +117,7 @@
 					Enjoy this dance and fitness combination class which will have you flying around the room and floating above the floor!
 				</p>
 				<p class="gold">
-					<i><b>Look our Peter Pan!</b></i>
+					<i><b>Look out Peter Pan!</b></i>
 				</p>
 			</div>
 		</div>

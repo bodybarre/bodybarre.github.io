@@ -71,4 +71,69 @@
 				</div>
 			</div>
 
+			<hr/>
+
+			<div class="row">
+				<div class="col-md-12">
+					<h3 class="pink">Join our team</h3>
+					<p class="gold">
+						<i><b>Put your best foot forward and join the BEST Fitness Team in Manchester!</b></i>
+					</p>
+
+					<p>
+						If you have a passion for fitness, there is no better place to grow than with Bodybarre Studio.
+					</p>
+
+					<p>
+						Bodybarre is looking for qualified ground based and aerial fitness professionals to join our exceptional team of fitness professionals. 
+					</p>
+
+					<p>
+						Requirements
+						<ul class="ticked-list">
+							<li><span>Qualifications, vast knowledge and experience in your chosen discipline</span></li>
+							<li><span>Provide both individual and group fitness instruction that is safe, clear and concise before and during exercise activity.</span></li>
+							<li><span>Design and implement workout programs specific for each client’s goals and abilities.</span></li>
+							<li><span>Motivate clients to achieve fitness goals.</span></li>
+							<li><span>Promote and assist in selling training programs.</span></li>
+							<li><span>Enthusiastic team-player who is eager to create new relationships.</span></li>
+							<li><span>If you are interested in joining our unique team please send a copy of a CV of your relevant experience and skills.</span></li>
+						</ul>
+					</p>
+					<p>
+						Get in touch! <span class="gold">karen@bodybarre.co.uk</span>
+					</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-md-12">
+					<h3 class="pink">Party Host</h3>
+					<p class="gold">
+						<i><b>Be the life and sole of the party!</b></i>
+					</p>
+					<p>
+						Would you like to teach Bodybarre Party packages? Come and join our party team! Training given at our Manchester studio. Nationwide party hosting jobs available. 
+					</p>
+					<p>
+						Get in touch! <span class="gold">karen@bodybarre.co.uk</span>
+					</p>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-12">
+					<h3 class="pink">Franchise Owner</h3>
+					<p class="gold">
+						<i><b>Become a part of the Bodybarre Franchise team!</b></i>
+					</p>
+					<p>
+						Following the success of the Manchester Bodybarre Studio we now offer Franchise opportunities. We are an established successful company who are looking for motivated, inspiring people to lead Bodybarre across the globe!
+					</p>
+					<p>
+						Get in touch! <span class="gold">karen@bodybarre.co.uk</span>
+					</p>
+				</div>
+			</div>
+
 <?php include '../footer.php'; ?>

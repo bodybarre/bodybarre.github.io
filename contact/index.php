@@ -36,7 +36,7 @@
 							We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 					</style>
 					<div id="mc_embed_signup">
-					<form action="https://bodybarre.us12.list-manage.com/subscribe/post?u=cf54f835a7c60e8a1ce01cb32&amp;id=d218b2efd7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<form action="https://bodybarre.us12.list-manage.com/subscribe/post?u=cf54f835a7c60e8a1ce01cb32&amp;id=9e36875046" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 							<div id="mc_embed_signup_scroll">
 								<label for="mce-EMAIL">Subscribe to our mailing list!</label>
 								<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
@@ -53,9 +53,9 @@
 
 			<div class="row">
 				<div class="col-md-6">
-					<h3 class="pink">Contact Us</h3>
+					<h3 class="pink">Get in touch. Come and play. Get Fit.</h3>
 					<p>
-						Get in touch. Please email <span class="gold">karen@bodybarre.co.uk</span>
+						To make an enquiry, request a price list and terms and conditions, or book onto a class, please email <span class="gold">karen@bodybarre.co.uk</span>
 					</p>
 				</div>
 				<div class="col-md-6">

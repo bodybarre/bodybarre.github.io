@@ -39,9 +39,6 @@
 					<p>
 						You are very welcome at our studio, please do get in touch to discuss your requirements and we will check availability and provide prices.
 					</p>
-					<p class="gold">
-						<i><b>Seduce your sole with head to toe wellness</b></i>
-					</p>
 				</div>
 			</div>
 			<div class="row">

@@ -116,7 +116,7 @@
 							We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 					</style>
 					<div id="mc_embed_signup">
-					<form action="https://bodybarre.us12.list-manage.com/subscribe/post?u=cf54f835a7c60e8a1ce01cb32&amp;id=d218b2efd7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<form action="https://bodybarre.us12.list-manage.com/subscribe/post?u=cf54f835a7c60e8a1ce01cb32&amp;id=9e36875046" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 							<div id="mc_embed_signup_scroll">
 								<label for="mce-EMAIL">Subscribe to our mailing list!</label>
 								<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>

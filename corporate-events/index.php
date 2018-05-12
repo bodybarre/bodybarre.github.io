@@ -28,7 +28,7 @@
 			</nav>
 		
 			<div class="row">
-				<div class="col-md-6">
+				<div class="col-md-12">
 					<h3 class="pink">Corporate Team Building Events</h3>
 					<p>
 						Allow us to host an amazing corporate event. Lets arrange a fantastic day out for your company. Bodybarre deliver fun corporate team building activities and corporate entertainment.
@@ -70,15 +70,12 @@
 						<i><b>Engage and Energise your team!</b></i>
 					</p>
 				</div>
-				<div class="col-md-6">
-					<img class="img-responsive" src="../images/corporate.jpg" alt="Corporate events with Bodybarre image"/>
-				</div>
 			</div>
 
 			<hr/>
 
 			<div class="row">
-				<div class="col-md-12">
+				<div class="col-md-6">
 					<h3 class="pink">Corporate Shows</h3>
 					<p>
 						Planning a company event or party? 
@@ -101,6 +98,9 @@
 					<p class="gold">
 						<i><b>A bevy of beautiful stars!</b></i>
 					</p>
+				</div>
+				<div class="col-md-6">
+					<img class="img-responsive" src="../images/corporate.jpg" alt="Corporate events with Bodybarre image"/>
 				</div>
 			</div>
 
