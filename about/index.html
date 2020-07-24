@@ -56,7 +56,7 @@
 
 		<div class="row">
 			<div class="col-md-12">
-				<h3 class="pink">Bodybarre Studio : Manchester</h3>
+				<h3 class="pink">Bodybarre Studio: Manchester</h3>
 				<p>
 					Bodybarre started out as the first Pole Fitness School in Manchester and have grown to offer so much
 					more! We pride ourselves on being one of the most extraordinary Boutique Fitness Studios in
@@ -130,30 +130,11 @@
 		<hr />
 
 		<div class="row">
-			<div class="col-xs-6">
-				<div id="map"></div>
-				<script src="https://maps.googleapis.com/maps/api/js"></script>
-				<script>
-					google.maps.event.addDomListener(window, 'load', function () {
-						var myLatlng = new google.maps.LatLng(53.484233, -2.236942);
-						var mapOptions = {
-							center: myLatlng,
-							zoom: 16,
-							mapTypeId: google.maps.MapTypeId.ROADMAP
-						}
-						var map = new google.maps.Map(document.getElementById('map'), mapOptions)
-						new google.maps.Marker({
-							position: myLatlng,
-							map: map,
-							title: 'Bodybarre Manchester'
-						});
-					});
-				</script>
-			</div>
-			<div class="col-xs-6">
-				<p class="pink" style="font-size:17px;"><i>Find us in Manchester's vibrant Nothern Quarter!</i></p>
+			
+			<div class="col-xs-12 col-md-6">
+				<p class="pink" style="font-size:17px; text-align: right;"><i>Find us in Manchester's vibrant Nothern Quarter!</i></p>
 				<br />
-				<address>
+				<address style="text-align: right;">
 					<strong>Bodybarre Studio</strong><br />
 					2nd Floor<br />
 					35-37 Thomas Street<br />
@@ -161,6 +142,13 @@
 					Manchester<br />
 					M4 1NA<br />
 				</address>
+			</div>
+			<div class="col-xs-12 col-md-6">
+				<div>
+					<div id="embeddedmap-display" style="height:100%; width:100%;max-width:100%;">
+						<iframe style="height:400px;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/place?q=M4+1NA&key=AIzaSyB6HV62UiIoo-KyRxKVyBe2RJTwOs4dDJk"></iframe>
+					</div>
+				</div>
 			</div>
 		</div>
 		<hr />
