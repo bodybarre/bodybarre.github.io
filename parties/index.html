@@ -450,20 +450,23 @@
     </div>
     <hr />
 
-    <div class="row">
-      <div class="col-xs-6">
-        Copyright &copy; Bodybarre 2020
-      </div>
-      <div class="col-xs-6 right">
-        <a href="http://www.instagram.com/bodybarrekaz"><img src="../images/instagram.png" /></a>
-        <a href="http://www.twitter.com/BodybarreUK"><img src="../images/twitter.png" /></a>
-        <a href="https://www.facebook.com/bodybarremanchester"><img src="../images/facebook.png" /></a>
-        <a href="http://www.youtube.com/user/karenBODYBARRE"><img src="../images/youtube.png" /></a>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript" src="../js/jquery.min.js"></script>
-  <script type="text/javascript" src="../js/bootstrap.min.js"></script>
+		<div class="row">
+			<div class="col-xs-6">
+				<span>Copyright &copy; Bodybarre <span id="year"></span></span>
+			</div>
+			<div class="col-xs-6 right">
+				<a href="http://www.instagram.com/bodybarrekaz"><img src="../images/instagram.png" /></a>
+				<a href="https://www.pinterest.co.uk/bodybarrekaz"><img src="../images/pinterest.png" /></a>
+				<a href="https://www.facebook.com/bodybarremanchester"><img src="../images/facebook.png" /></a>
+				<a href="http://www.youtube.com/user/karenBODYBARRE"><img src="../images/youtube.png" /></a>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript" src="../js/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/bootstrap.min.js"></script>
+	<script>
+		document.getElementById("year").innerHTML = new Date().getFullYear();
+	</script>
 </body>
 
 </html>
